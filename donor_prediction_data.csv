@@ -1,0 +1,1001 @@
+Age,Gender,Income Level,Education Level,Occupation,Last Donation Amount,Total Donations,Number of Donations,Recency (days),Email Open Rate,Event Participation,Social Media Engagement,Donate Again
+58,Female,Medium,Bachelor,Self-Employed,40.63,277.56,5,186,0.38765990055879906,No,Low,1
+71,Female,High,Bachelor,Self-Employed,1.48,1717.01,3,169,0.4257616149303052,No,Low,0
+48,Male,Medium,Master,Student,118.89,536.13,5,172,0.07532143216740483,No,Medium,0
+34,Female,Medium,Bachelor,Employed,8.5,415.51,2,260,0.03145719524602608,No,Low,0
+62,Male,High,Bachelor,Employed,12.43,1351.21,4,205,0.6954756041890774,No,Low,0
+27,Female,Low,High School,Retired,36.52,441.56,8,135,0.4384288920111806,No,Low,1
+40,Female,Low,Master,Employed,61.91,373.36,4,46,0.5522150680546295,Yes,Medium,1
+58,Female,Medium,Bachelor,Student,5.03,712.12,6,9,0.5576612476224163,No,Low,0
+77,Female,High,High School,Retired,19.11,623.55,8,161,0.2773758133333014,Yes,Medium,0
+38,Female,Low,Bachelor,Retired,173.17,107.31,2,289,0.4758925108294907,Yes,Medium,1
+42,Male,Low,High School,Self-Employed,15.21,318.67,3,340,0.47076022166770226,No,High,0
+30,Male,Low,High School,Self-Employed,18.77,319.82,7,321,0.388427221227857,No,Medium,1
+30,Female,Low,Master,Employed,90.55,237.59,4,106,0.8206753834010705,Yes,Low,0
+43,Female,Low,Bachelor,Retired,2.58,364.17,8,290,0.4511640036875959,Yes,Low,0
+72,Male,Medium,Master,Self-Employed,31.24,266.46,4,341,0.6036445245059878,No,Low,1
+55,Female,Medium,High School,Student,23.87,111.16,4,88,0.8955201203808261,No,Low,0
+59,Female,Low,Master,Self-Employed,19.03,265.83,4,192,0.8662336228589225,No,Low,0
+43,Male,Medium,High School,Self-Employed,16.82,37.51,6,153,0.8904222037791651,No,Low,0
+22,Female,Low,Bachelor,Retired,4.79,428.76,7,311,0.27000499646501397,No,Medium,0
+41,Female,Medium,PhD,Retired,18.9,960.89,2,137,0.03498248830806283,No,Low,1
+72,Male,Medium,Master,Unemployed,2.2,646.01,5,273,0.2610667998953292,No,Low,0
+21,Male,Medium,Bachelor,Student,75.93,223.45,5,149,0.27870734562070865,Yes,Low,0
+43,Male,Low,Bachelor,Retired,25.39,45.55,5,188,0.909360326724968,No,Low,1
+63,Female,Medium,Master,Employed,29.34,112.92,4,141,0.6492427328379706,No,Low,0
+49,Male,Low,Bachelor,Student,112.02,394.27,6,131,0.08170395960222876,Yes,Medium,0
+57,Male,High,Master,Student,53.66,116.0,4,4,0.13537859601110114,No,Medium,1
+21,Male,Medium,Master,Retired,0.4,392.6,5,263,0.1556761255419754,Yes,Low,1
+79,Male,Medium,High School,Student,143.39,131.72,4,26,0.6304217481689232,Yes,Medium,0
+40,Male,Low,High School,Retired,13.53,944.99,3,24,0.7354140255070031,No,Low,0
+52,Male,High,Bachelor,Self-Employed,5.69,253.14,3,266,0.8596439105653961,No,Medium,1
+31,Female,Low,High School,Unemployed,73.08,140.88,4,229,0.9406365508062431,No,Medium,1
+77,Female,Low,High School,Self-Employed,34.71,836.52,3,269,0.20170455738644177,No,Low,1
+41,Male,Medium,PhD,Retired,28.44,209.91,7,125,0.30977248472404906,No,Medium,0
+63,Male,Low,Bachelor,Retired,14.35,59.1,7,172,0.24032288074483066,No,Low,0
+44,Male,High,Master,Self-Employed,39.65,422.46,6,234,0.35876156746613774,No,Medium,0
+68,Female,Medium,Bachelor,Employed,16.04,435.62,5,295,0.9146651074237494,Yes,Medium,1
+46,Female,Low,Bachelor,Employed,115.93,627.1,4,275,0.5751125669393615,No,Low,1
+78,Female,Medium,High School,Employed,12.12,137.36,4,76,0.7381918973244991,No,Medium,0
+61,Female,High,Bachelor,Retired,107.86,293.29,7,308,0.490119236126782,Yes,Low,0
+47,Female,High,High School,Student,40.98,165.9,6,214,0.02885791333612453,Yes,Low,0
+79,Female,Medium,Bachelor,Retired,88.16,42.21,3,158,0.06419548599781433,Yes,Medium,1
+35,Female,High,Master,Student,62.39,1046.22,4,302,0.5379230312678858,No,Low,0
+34,Female,High,Bachelor,Self-Employed,59.65,652.58,4,204,0.7187890348200257,No,Low,0
+66,Female,Medium,Bachelor,Unemployed,19.6,179.38,4,149,0.2153305275287315,No,Medium,0
+70,Male,Low,Bachelor,Student,13.32,457.36,7,75,0.721909573992304,No,Medium,0
+63,Male,Medium,High School,Employed,11.84,112.36,6,229,0.8106657734835124,No,Medium,0
+74,Male,High,Bachelor,Retired,97.31,1104.71,7,304,0.4118974783621112,No,Low,1
+71,Male,Low,High School,Self-Employed,85.86,61.03,3,62,0.7464192328441049,No,Low,1
+76,Female,High,High School,Employed,29.04,1.92,5,58,0.4040299503284599,No,Low,0
+22,Female,Low,High School,Self-Employed,7.1,348.59,5,274,0.67835062945502,No,Low,0
+56,Male,Low,Bachelor,Unemployed,24.08,437.49,4,108,0.763997049319543,No,Low,1
+70,Female,Medium,Master,Retired,48.29,432.52,5,187,0.9919266183081108,No,Low,0
+26,Male,Low,High School,Retired,30.29,28.03,2,229,0.3453966620635961,No,Low,0
+40,Female,High,Bachelor,Unemployed,75.75,188.47,6,48,0.41104078057461146,No,Medium,1
+28,Male,High,Bachelor,Retired,302.09,345.77,2,319,0.16562005941017133,No,Low,1
+58,Female,High,High School,Student,10.61,122.04,3,268,0.2040730584018069,No,Low,1
+37,Female,Medium,Master,Self-Employed,30.78,1030.31,3,215,0.6933950025983777,No,Low,0
+23,Male,Low,Bachelor,Employed,28.19,45.57,5,290,0.9170455901544761,No,Low,0
+44,Female,Medium,Bachelor,Unemployed,18.16,334.11,0,254,0.39460495166124054,No,Medium,0
+79,Male,Medium,Bachelor,Student,11.04,587.88,9,358,0.17984444683554124,No,Low,0
+33,Male,Medium,High School,Employed,3.4,151.74,4,87,0.28509949938299406,Yes,Medium,1
+69,Male,Low,Bachelor,Employed,109.07,489.4,2,181,0.4550517048081386,No,Low,0
+77,Male,Medium,Bachelor,Unemployed,27.22,884.17,5,25,0.2906503293653684,No,Medium,1
+28,Female,Medium,Master,Student,34.35,105.57,3,222,0.23357908312186626,No,Low,0
+45,Female,High,High School,Employed,124.41,1245.79,2,49,0.7359844887570796,No,Low,0
+72,Female,High,Bachelor,Employed,74.87,403.22,5,334,0.007844921240623193,No,Low,1
+21,Male,Medium,Bachelor,Student,6.99,177.79,5,175,0.5392305273364831,No,Medium,0
+39,Female,Medium,High School,Retired,41.67,281.81,3,311,0.7937668070297539,Yes,Low,0
+47,Male,Medium,Bachelor,Employed,29.19,187.12,4,274,0.2662282863174682,No,Low,0
+66,Female,Low,Master,Self-Employed,79.78,645.69,2,35,0.6032915106120174,No,Low,0
+79,Female,High,Master,Student,64.41,795.56,9,217,0.6689001056186178,No,Medium,0
+26,Female,High,Bachelor,Employed,58.62,894.69,13,209,0.65502469640509,No,Low,0
+63,Male,Medium,Master,Unemployed,20.82,2126.14,4,160,0.4458496341987177,No,Medium,0
+27,Female,Medium,PhD,Self-Employed,81.73,783.39,3,7,0.3465779878757792,No,Low,1
+66,Female,Low,Master,Employed,2.69,459.88,9,269,0.8359240730278135,No,Medium,0
+54,Male,Medium,High School,Self-Employed,8.7,207.17,2,126,0.7584459569998643,No,Low,0
+33,Female,Low,Master,Self-Employed,20.45,393.28,4,325,0.3212551734139125,No,Low,0
+36,Male,High,Bachelor,Retired,4.0,20.97,7,356,0.10301919444220609,No,Medium,0
+55,Female,Low,PhD,Self-Employed,13.39,682.9,3,90,0.07180754544546919,Yes,Medium,0
+69,Male,Medium,Bachelor,Retired,88.64,295.26,4,42,0.09427597789893605,Yes,Low,0
+59,Male,High,High School,Student,148.07,10.11,7,159,0.5828693611920428,Yes,Medium,0
+23,Female,Medium,Master,Retired,18.16,32.27,3,202,0.05166217582898969,No,Low,1
+21,Male,Low,Bachelor,Unemployed,15.36,245.08,8,282,0.3369268749640384,No,Medium,1
+25,Male,Low,PhD,Employed,16.42,437.84,6,332,0.7531997019142294,No,High,1
+73,Male,Low,PhD,Student,16.27,312.0,6,288,0.2943481665153781,No,Medium,0
+61,Male,Medium,Bachelor,Student,1.83,482.75,8,91,0.7633080771801298,No,Low,0
+23,Male,Low,High School,Unemployed,130.81,327.25,3,125,0.7454670382070553,No,Medium,1
+73,Male,Medium,Bachelor,Retired,12.02,541.92,6,126,0.24582713263321632,No,Low,0
+48,Female,High,High School,Employed,27.24,123.67,5,52,0.7288221800927455,No,Low,1
+37,Male,Low,High School,Retired,0.49,59.87,8,103,0.7477766382721007,No,High,0
+45,Male,High,Master,Self-Employed,97.58,453.71,10,361,0.39745392566702686,No,Low,0
+63,Female,High,High School,Retired,65.68,331.49,2,187,0.21042048374151823,No,Medium,1
+53,Female,Low,Bachelor,Student,146.64,13.62,4,205,0.5212708068918691,No,Low,1
+29,Female,High,PhD,Employed,76.07,239.41,6,14,0.9213975880001963,Yes,Medium,1
+55,Female,Medium,Bachelor,Retired,18.82,56.09,4,104,0.639616732432062,No,Medium,1
+33,Female,High,High School,Employed,14.24,378.96,6,117,0.1729224976272612,No,Low,0
+50,Female,Medium,PhD,Employed,59.82,251.91,4,304,0.6827569247335199,No,Low,0
+67,Female,Medium,High School,Self-Employed,22.64,474.86,7,93,0.42720302728183457,No,Medium,1
+34,Male,Medium,Master,Self-Employed,41.76,818.92,5,144,0.591528797355373,No,Low,0
+27,Male,High,PhD,Student,0.31,178.1,1,110,0.7340640350231079,Yes,Medium,0
+33,Female,Medium,PhD,Unemployed,3.19,1636.43,4,163,0.5149473515144448,No,Low,0
+42,Male,Medium,Bachelor,Employed,38.33,383.54,12,53,0.8139839745733086,Yes,Low,0
+79,Male,High,Bachelor,Unemployed,41.74,481.55,10,3,0.7221555793166278,No,Medium,0
+76,Male,Low,High School,Student,69.61,570.77,4,68,0.6150733400185107,Yes,Medium,0
+59,Female,Low,Master,Employed,7.08,549.4,3,246,0.1507928158323515,No,Medium,1
+40,Female,Low,Master,Employed,35.99,357.67,6,138,0.8359491109115683,No,Medium,1
+35,Male,Medium,Bachelor,Unemployed,10.81,279.98,6,308,0.935905585319816,No,Medium,0
+64,Female,Low,High School,Retired,4.89,27.64,5,352,0.13696512380929482,Yes,Low,0
+37,Male,High,High School,Self-Employed,26.42,11.17,2,287,0.48824112943343057,No,Low,0
+66,Male,Low,High School,Retired,8.92,221.55,9,66,0.2588887419705045,No,High,0
+72,Male,Medium,Master,Unemployed,12.54,202.98,6,347,0.7545233074255646,No,Low,0
+43,Male,Low,Bachelor,Self-Employed,19.1,245.26,4,325,0.7216296360047,No,Low,0
+45,Female,High,PhD,Retired,15.01,74.46,6,155,0.1408851205703987,No,Low,0
+44,Female,High,Master,Self-Employed,4.58,670.03,8,87,0.8770272712616372,Yes,Low,0
+79,Female,Medium,High School,Employed,4.71,972.33,2,33,0.18097306397800228,No,Low,0
+79,Male,High,Bachelor,Retired,10.74,1396.11,2,68,0.7972590256481075,No,Medium,0
+79,Female,Low,Bachelor,Self-Employed,2.59,338.99,6,187,0.4569803596280049,No,Medium,0
+64,Male,High,Bachelor,Self-Employed,49.24,603.43,6,192,0.32827229355815124,No,High,0
+60,Female,Low,Master,Self-Employed,16.94,967.41,4,213,0.1582392626742135,No,Medium,0
+48,Male,High,Master,Retired,16.41,270.89,9,88,0.1676142561466294,Yes,High,1
+34,Male,Low,Master,Student,20.17,185.11,3,351,0.6618905547009003,No,Low,0
+64,Male,Medium,High School,Retired,54.35,1380.13,5,108,0.5504303879471205,Yes,Medium,1
+20,Female,Medium,High School,Unemployed,102.26,362.5,8,240,0.1220854216512327,Yes,Low,0
+44,Female,Low,Master,Retired,71.17,343.83,5,216,0.11269786043832519,No,Medium,1
+26,Female,Low,High School,Self-Employed,65.01,98.26,5,177,0.07231057477279146,No,Low,0
+28,Female,Low,Bachelor,Employed,33.12,57.23,7,53,0.7437673473735441,No,Low,1
+43,Male,Medium,High School,Retired,59.18,922.92,4,330,0.7118820852292892,No,Medium,0
+20,Female,Medium,Bachelor,Retired,40.23,476.13,6,49,0.05843099085457515,Yes,Medium,1
+63,Female,Low,High School,Self-Employed,12.18,197.13,5,114,0.560270075596973,No,Low,0
+27,Male,Medium,Bachelor,Employed,11.7,106.43,6,95,0.0846761552426899,No,High,0
+43,Male,Low,PhD,Employed,17.58,405.4,5,25,0.9037457706089417,No,Medium,1
+30,Male,High,High School,Unemployed,120.85,438.44,5,132,0.9071174191801324,No,Medium,0
+70,Female,Low,High School,Retired,39.64,115.96,4,179,0.6982329898131301,No,Low,1
+36,Male,Low,Bachelor,Employed,66.2,953.27,4,145,0.92618892143945,No,Low,0
+27,Male,Low,Master,Employed,21.28,44.01,5,364,0.8114530304136905,No,Low,0
+54,Male,Medium,High School,Student,26.19,220.1,3,198,0.8285385759270494,No,Low,1
+54,Female,High,Bachelor,Student,6.71,570.32,5,325,0.5697078505699332,Yes,Low,0
+52,Male,Medium,High School,Employed,9.39,160.19,7,84,0.3060591982161759,No,Low,0
+78,Female,Low,Master,Unemployed,87.83,879.19,3,157,0.21779911511642158,No,Low,1
+24,Female,Medium,Bachelor,Employed,43.95,673.28,0,85,0.3272000220389292,No,Medium,1
+61,Male,Medium,Master,Self-Employed,20.59,778.0,5,253,0.6284954300890621,No,Medium,1
+58,Male,Low,PhD,Retired,81.19,63.41,4,72,0.17265653583239893,No,Low,0
+77,Female,Medium,High School,Unemployed,14.15,75.73,1,223,0.2586402366373216,No,Low,0
+60,Male,High,Master,Self-Employed,186.55,168.77,5,276,0.46806086279546444,Yes,High,0
+47,Male,Low,High School,Unemployed,21.14,364.99,5,283,0.23305009852461556,No,High,0
+26,Female,Medium,Master,Self-Employed,20.57,689.19,3,264,0.5886436697160616,No,Low,1
+28,Female,Medium,Bachelor,Retired,18.69,905.57,1,246,0.9231760284563298,Yes,Low,0
+27,Male,Medium,Master,Retired,6.51,609.26,5,341,0.7480893657031265,No,Medium,0
+31,Female,Low,High School,Student,5.89,1319.71,11,61,0.666426614148913,No,Low,0
+53,Male,Low,High School,Self-Employed,52.22,671.13,5,259,0.5827214759837788,Yes,Low,1
+52,Male,High,Bachelor,Student,104.02,182.83,5,7,0.4879479092570649,No,Low,1
+67,Male,High,Bachelor,Self-Employed,78.16,154.0,7,188,0.1865638596346597,No,Medium,0
+74,Female,Medium,High School,Student,7.61,595.68,4,4,0.8947104554268656,Yes,Medium,0
+42,Male,Medium,Bachelor,Retired,39.44,107.14,1,231,0.24853600201283632,No,Medium,1
+43,Male,Medium,High School,Unemployed,5.58,48.65,5,133,0.09130887757816075,No,Medium,0
+56,Male,Medium,Bachelor,Student,2.32,379.88,7,125,0.7500151792286952,No,Low,0
+54,Female,Medium,Master,Self-Employed,53.41,861.98,3,15,0.1756155343311664,No,Medium,0
+63,Female,Low,Bachelor,Self-Employed,38.3,53.45,3,13,0.371895999541176,No,Low,0
+59,Female,High,High School,Retired,4.28,784.85,9,118,0.028284928290979727,Yes,Medium,0
+41,Female,Medium,Bachelor,Self-Employed,1.78,834.52,1,240,0.13706794254044807,No,Medium,1
+46,Female,High,High School,Employed,229.06,329.15,6,263,0.17320363075991208,No,Low,0
+54,Male,Low,PhD,Unemployed,1.52,29.51,6,360,0.05441012775017795,No,Low,0
+20,Female,Low,High School,Student,29.4,95.94,5,6,0.6566569566228452,Yes,Medium,1
+54,Female,Low,Master,Unemployed,35.12,614.52,4,320,0.8370077958031172,No,Low,1
+56,Female,Medium,PhD,Retired,6.24,622.01,7,231,0.37331540636594096,No,Low,0
+66,Male,High,Master,Student,9.26,1143.14,7,30,0.8745764767182007,No,Low,0
+33,Female,Low,Bachelor,Student,21.68,436.96,6,22,0.2133465745601265,Yes,Low,0
+22,Female,High,Master,Employed,71.71,66.26,5,156,0.3253904235612395,No,High,0
+20,Male,Medium,PhD,Retired,35.37,64.72,3,118,0.1507369930311684,Yes,Low,0
+24,Female,High,Bachelor,Self-Employed,50.79,638.51,5,340,0.6205591954189986,No,Low,0
+45,Male,Low,Bachelor,Employed,210.57,101.54,3,193,0.41986959087030684,Yes,High,0
+74,Male,High,Bachelor,Employed,73.05,199.04,1,346,0.6132833468418987,No,Medium,0
+33,Male,Medium,Bachelor,Unemployed,28.49,333.95,2,195,0.7616749053941836,No,Low,0
+58,Male,Low,Bachelor,Unemployed,29.57,12.54,6,168,0.5457030160329485,No,Medium,0
+46,Male,Low,Bachelor,Unemployed,48.22,143.05,4,239,0.6276303549017879,Yes,Medium,0
+28,Female,High,High School,Employed,54.74,262.03,9,362,0.9352503143943329,No,Low,0
+34,Male,High,High School,Self-Employed,34.73,164.0,4,244,0.2990643096088431,No,Medium,0
+34,Male,Low,High School,Student,51.76,73.31,6,69,0.35916393863395313,Yes,High,0
+45,Female,Medium,High School,Unemployed,1.19,651.0,8,95,0.7177033617093369,No,Low,0
+61,Male,High,High School,Self-Employed,28.07,838.72,5,77,0.6113055170553867,No,Low,0
+79,Female,High,Bachelor,Retired,16.35,148.85,3,171,0.17853290453971482,No,Medium,0
+32,Female,High,High School,Unemployed,6.92,744.54,4,1,0.3761473100104902,No,Low,1
+70,Female,Medium,Master,Student,5.24,243.52,3,62,0.46783801312471496,No,Low,1
+51,Male,Medium,High School,Retired,46.22,353.3,6,207,0.41938983796838936,No,Low,0
+58,Male,Medium,High School,Retired,37.07,968.97,6,154,0.1782748083220408,No,Medium,1
+68,Male,Medium,Master,Student,14.62,693.05,9,274,0.9244300917842623,No,High,0
+71,Female,Medium,Bachelor,Unemployed,31.83,817.68,5,48,0.7623187616939758,No,Medium,0
+51,Male,Medium,High School,Employed,33.89,73.58,5,137,0.48135583210785227,No,Low,1
+23,Male,Low,Master,Student,10.85,36.13,3,1,0.6800610283068366,No,Low,0
+49,Male,High,Master,Student,52.79,1119.36,8,235,0.8972826721355218,Yes,Low,0
+56,Female,Medium,Bachelor,Student,75.92,245.38,6,256,0.13617414236157122,No,Low,0
+42,Female,Medium,Bachelor,Retired,78.38,169.75,5,107,0.2503730507069777,No,Low,0
+58,Male,Medium,PhD,Self-Employed,46.12,644.94,1,173,0.542701247256645,No,Medium,0
+64,Male,Medium,Bachelor,Employed,35.83,905.21,3,130,0.7990103713523586,No,Low,0
+34,Male,Low,Bachelor,Unemployed,3.15,992.03,2,294,0.03625489544152738,No,Low,0
+62,Male,Low,Master,Unemployed,16.97,189.9,7,40,0.9840181501963605,Yes,Low,0
+48,Female,Low,High School,Self-Employed,4.9,955.99,2,338,0.45490660288239715,No,High,0
+55,Female,Low,Bachelor,Student,165.97,20.9,2,16,0.359231140621723,No,Low,1
+32,Female,Medium,High School,Employed,7.26,25.47,8,127,0.29272443783977187,No,Medium,1
+51,Female,Medium,Master,Unemployed,8.23,488.44,3,349,0.17435670765087163,No,Medium,0
+26,Male,Low,Bachelor,Unemployed,110.17,32.59,6,203,0.7915739089300279,No,Low,0
+78,Male,Medium,Bachelor,Student,144.06,196.23,6,134,0.9554141647460965,No,Low,1
+70,Male,Low,High School,Self-Employed,72.59,558.52,2,259,0.4136447548453982,No,Medium,0
+41,Female,High,High School,Employed,0.27,205.69,5,14,0.9524206947534563,No,Low,0
+47,Male,High,Bachelor,Self-Employed,0.07,98.98,2,66,0.8237976154350342,No,Medium,0
+21,Female,Low,Master,Self-Employed,23.75,165.19,2,351,0.4810511274763183,No,Medium,1
+61,Female,Medium,Bachelor,Employed,7.74,305.85,5,342,0.6740261791261327,No,Medium,0
+64,Male,Low,High School,Employed,0.93,322.55,4,195,0.43498417917046295,No,Low,0
+76,Male,Medium,Master,Unemployed,31.19,763.93,3,114,0.5587234082125524,No,Low,0
+72,Male,Medium,High School,Unemployed,143.29,693.45,5,159,0.05804633701850381,Yes,Low,0
+25,Female,Low,PhD,Employed,19.56,305.16,8,161,0.6962634753005331,No,Low,0
+47,Male,Medium,High School,Retired,54.11,934.32,7,254,0.05282464448413671,No,Medium,0
+47,Female,Low,Bachelor,Unemployed,52.81,60.65,5,15,0.8170849469196495,No,High,0
+63,Male,Low,High School,Retired,14.46,147.42,6,37,0.8249469294605575,Yes,Low,0
+63,Female,Medium,PhD,Employed,52.55,880.06,3,155,0.2370772875562146,No,Medium,0
+39,Female,Medium,Bachelor,Unemployed,11.93,237.4,5,27,0.32366278103580026,No,Low,1
+49,Male,Medium,High School,Self-Employed,6.51,1986.46,8,12,0.4813103785582933,No,Low,1
+30,Female,Medium,Bachelor,Employed,60.43,313.92,5,67,0.5966629069324815,Yes,Low,0
+77,Female,High,High School,Student,6.02,784.95,6,30,0.2873536617419967,No,Medium,0
+74,Male,Low,High School,Retired,288.97,257.34,5,96,0.592486404631925,Yes,Medium,0
+47,Female,Medium,PhD,Employed,10.13,276.65,5,215,0.29778707322929887,No,Low,0
+44,Male,Medium,Bachelor,Employed,45.09,241.35,7,194,0.05549072107106068,Yes,Medium,1
+58,Female,Medium,Master,Unemployed,26.5,634.83,5,135,0.0025275498319089484,No,Low,0
+52,Male,High,Bachelor,Unemployed,6.76,396.5,4,290,0.1011510579184286,No,Medium,0
+20,Male,Medium,Bachelor,Unemployed,1.41,1439.22,7,32,0.7922507001640182,No,Medium,1
+76,Female,Medium,High School,Student,48.74,144.43,6,39,0.9614313123833371,No,Medium,1
+46,Female,Medium,High School,Unemployed,82.19,52.99,9,352,0.42696619928121926,No,High,0
+76,Female,High,Master,Employed,92.26,249.83,4,206,0.5126839534499428,Yes,Low,0
+71,Female,High,PhD,Unemployed,32.96,479.49,1,43,0.14684816907342613,Yes,Medium,0
+32,Female,Medium,High School,Self-Employed,75.13,985.92,8,337,0.551031352680157,No,High,1
+60,Male,Medium,High School,Unemployed,55.87,212.47,5,259,0.14465490200697684,No,Medium,1
+22,Female,Low,Bachelor,Student,64.41,530.35,6,249,0.6112143311988301,No,Medium,0
+58,Male,Low,PhD,Self-Employed,33.92,215.54,5,74,0.9332586675808539,No,Medium,0
+25,Male,Medium,High School,Employed,50.18,480.15,6,319,0.1956985393030396,No,Medium,0
+27,Female,Low,Bachelor,Employed,81.87,1080.58,8,296,0.764563718057102,No,Low,0
+46,Male,Medium,Master,Retired,25.37,131.56,2,274,0.023502422818324042,Yes,Low,0
+28,Male,Low,High School,Self-Employed,81.99,258.96,4,323,0.375497241321621,Yes,Low,0
+56,Male,Medium,High School,Retired,44.83,2500.23,1,359,0.11074850783050905,No,Low,0
+52,Male,Medium,Bachelor,Self-Employed,9.07,1014.59,6,190,0.35247544159569943,No,Medium,1
+70,Female,High,PhD,Self-Employed,1.25,415.79,8,138,0.1735369196388835,Yes,Low,0
+61,Male,Low,High School,Student,22.53,363.48,7,302,0.3733049901228874,No,Low,0
+63,Female,Medium,Bachelor,Retired,39.56,167.46,6,311,0.41752280610753034,No,Medium,0
+43,Female,High,Bachelor,Student,91.57,364.09,4,331,0.3005911227809184,No,Low,1
+34,Male,Low,Bachelor,Self-Employed,6.82,942.53,3,353,0.6566219494731291,No,Medium,0
+78,Female,High,Bachelor,Employed,80.52,577.87,6,282,0.9188520512589097,No,Medium,1
+73,Female,Medium,Bachelor,Self-Employed,99.39,171.28,6,166,0.40059537410527235,No,Low,0
+51,Female,Medium,Bachelor,Student,8.17,112.49,3,278,0.19234315647502143,No,Medium,1
+51,Male,High,Bachelor,Retired,95.39,154.08,1,26,0.27072275819598335,No,Medium,1
+43,Female,Low,Bachelor,Retired,238.11,93.02,8,73,0.854000823496369,Yes,Medium,0
+60,Female,Medium,Bachelor,Student,64.88,50.26,2,115,0.5716397232701479,No,Medium,1
+71,Female,High,Master,Retired,76.8,271.62,5,51,0.4550110323069573,No,Medium,0
+68,Male,Low,High School,Unemployed,259.39,60.12,4,171,0.1496367215089267,Yes,Low,0
+68,Female,Medium,Master,Employed,46.5,94.32,6,268,0.44972730832378194,No,Low,0
+77,Male,High,Master,Employed,18.4,396.29,4,3,0.27849200335738666,Yes,Low,0
+71,Male,Low,High School,Employed,90.86,89.92,5,210,0.9431631278533492,No,Medium,1
+31,Male,High,Bachelor,Retired,47.66,33.01,5,338,0.8840701094157313,No,Low,1
+58,Male,Medium,Bachelor,Retired,43.52,190.91,6,301,0.08390254182819801,No,Low,0
+21,Male,Medium,High School,Self-Employed,14.63,124.44,3,342,0.5166534892612429,Yes,Medium,0
+22,Male,Medium,Bachelor,Self-Employed,70.6,362.12,5,115,0.22505834551467208,Yes,Low,0
+68,Female,Low,High School,Employed,4.26,54.0,5,167,0.4107770895242906,No,Low,0
+56,Male,High,High School,Unemployed,129.04,696.7,4,265,0.8768479982514564,No,Low,0
+68,Female,High,Master,Self-Employed,19.71,1183.47,4,227,0.5275145198885448,Yes,Medium,1
+75,Female,Medium,High School,Self-Employed,6.84,680.19,4,151,0.33421529337075984,No,Medium,0
+36,Male,Medium,Master,Retired,29.2,380.53,4,268,0.20788835410499706,No,Low,0
+78,Female,Medium,Bachelor,Unemployed,2.17,985.45,6,116,0.8003248594064892,Yes,Low,1
+68,Female,Medium,Master,Employed,57.7,593.59,6,88,0.6245180153643471,No,Low,0
+21,Female,Medium,Bachelor,Self-Employed,116.5,5.3,6,318,0.4680654604262312,No,Low,0
+21,Female,Medium,High School,Unemployed,90.78,250.51,7,242,0.21748435386297804,No,Low,0
+47,Male,Medium,Bachelor,Unemployed,6.81,951.74,5,360,0.3342463741571313,No,Medium,0
+73,Female,Medium,High School,Employed,6.75,212.22,8,329,0.9598434267385185,No,Low,1
+42,Male,Medium,Bachelor,Unemployed,83.95,17.93,4,333,0.5200899376058343,No,Medium,0
+56,Female,Low,PhD,Unemployed,129.02,685.56,5,40,0.40069928124325294,No,Low,0
+51,Female,Low,High School,Unemployed,30.87,809.84,1,182,0.5214220423483239,No,Low,0
+52,Male,Medium,Bachelor,Self-Employed,34.55,87.53,7,209,0.7789885058996087,No,High,0
+20,Female,Medium,Master,Employed,19.16,385.38,5,273,0.3401089365028688,No,Low,1
+38,Female,Medium,Master,Unemployed,112.34,106.57,9,119,0.17870612093260885,No,Medium,1
+21,Female,Medium,Bachelor,Unemployed,51.77,635.12,5,24,0.5849361183390478,No,Medium,1
+72,Male,Medium,High School,Self-Employed,17.0,158.42,8,258,0.6652041034810672,No,Medium,0
+63,Female,Medium,Bachelor,Employed,17.75,190.06,9,92,0.7127180029585496,No,Medium,0
+45,Male,Medium,High School,Retired,110.91,932.07,5,161,0.8819875907661296,No,Medium,0
+51,Female,Medium,Master,Self-Employed,0.69,323.44,9,149,0.37117412068911304,No,Medium,0
+25,Male,Medium,PhD,Employed,19.48,553.96,5,117,0.0753548962288918,No,Low,0
+51,Male,High,Master,Unemployed,40.41,257.39,6,53,0.9583485836309422,No,Low,0
+74,Female,Medium,Master,Employed,8.02,176.92,3,302,0.4350119274374752,Yes,Low,1
+23,Female,Low,High School,Employed,4.83,491.05,5,45,0.6232575096731313,No,High,0
+74,Male,Low,Master,Employed,84.44,84.13,5,265,0.6663053231282923,No,Low,0
+30,Male,Low,Master,Retired,112.41,233.4,8,262,0.5465137087012035,No,Low,0
+75,Female,Medium,High School,Employed,86.75,117.25,7,307,0.2052575297362701,No,High,0
+78,Male,Medium,Master,Retired,114.53,595.03,8,234,0.7551430501161415,No,Low,0
+36,Female,Medium,High School,Unemployed,40.27,1443.07,12,35,0.8037519743040816,No,Medium,0
+57,Female,Medium,Bachelor,Retired,83.63,2703.06,2,338,0.5529755860174398,No,Low,0
+43,Female,Low,Master,Unemployed,24.23,299.17,6,197,0.48856116058484156,Yes,Medium,0
+24,Female,Medium,Bachelor,Unemployed,54.87,145.53,4,25,0.11393818312798532,No,Medium,1
+71,Male,Low,High School,Retired,224.75,292.44,7,202,0.08395166149978384,No,Low,0
+53,Female,Medium,Bachelor,Self-Employed,12.79,939.54,4,273,0.3395648455635287,No,Medium,0
+25,Male,Low,Bachelor,Student,24.71,115.34,4,36,0.31084615551739325,Yes,High,0
+41,Female,High,PhD,Employed,32.7,1519.27,3,223,0.9536564509632712,No,Low,0
+30,Male,Low,Bachelor,Student,7.43,209.17,6,352,0.7836227424434298,No,Low,1
+67,Female,High,Bachelor,Employed,4.23,2127.39,6,277,0.6599242952590599,No,Low,0
+35,Male,Medium,Master,Employed,88.52,911.96,4,18,0.5176480890176051,No,Medium,0
+52,Male,High,Bachelor,Unemployed,188.17,826.62,7,188,0.16736753072665134,No,High,1
+28,Female,Medium,Bachelor,Employed,25.94,191.29,6,257,0.9784566721842839,No,Low,0
+79,Female,Medium,Bachelor,Employed,4.59,4.41,6,142,0.37504069824021,No,High,0
+78,Female,Medium,Master,Retired,3.4,240.74,6,136,0.1069256024472448,No,High,0
+25,Female,Medium,Bachelor,Student,110.97,179.63,2,307,0.4937988957157461,No,Low,0
+35,Male,Medium,Bachelor,Retired,31.16,19.06,4,79,0.8739980116130832,Yes,Medium,1
+48,Female,Medium,High School,Employed,19.29,351.97,2,292,0.8872910017773294,No,High,0
+22,Male,Medium,High School,Unemployed,32.36,257.95,4,62,0.010965916056447256,Yes,Medium,0
+39,Male,Low,High School,Retired,19.16,503.32,4,129,0.8862957447513997,No,Medium,0
+79,Female,Medium,High School,Retired,33.57,485.36,3,341,0.2714842174998585,No,Medium,0
+78,Male,Medium,Bachelor,Self-Employed,98.15,64.34,5,298,0.038972363968423074,No,High,0
+55,Male,Medium,Master,Employed,44.86,1885.38,6,257,0.8477902703628744,No,Medium,0
+38,Male,Medium,Bachelor,Unemployed,59.32,103.47,4,212,0.8638667559882083,No,Low,0
+45,Male,Medium,Master,Retired,22.68,294.64,4,54,0.59623107984235,No,Low,0
+22,Female,High,PhD,Retired,67.07,334.83,2,175,0.5744337572963584,No,Medium,1
+38,Female,Low,Master,Unemployed,54.92,838.49,9,100,0.8131202726214194,Yes,Low,0
+39,Female,Medium,Bachelor,Employed,6.37,52.25,9,39,0.7863095527102798,No,High,0
+51,Female,Medium,Bachelor,Self-Employed,42.51,279.87,8,263,0.8901054734427041,No,High,0
+26,Male,Medium,Bachelor,Retired,14.84,495.11,6,150,0.5527474475967035,No,Medium,1
+71,Male,High,High School,Self-Employed,81.51,121.13,8,121,0.9676470927328087,Yes,Low,1
+60,Female,Low,Bachelor,Student,27.75,493.72,4,178,0.9961468309333384,No,Low,1
+52,Female,Medium,PhD,Employed,261.85,1286.31,7,301,0.11654460999863259,No,Low,0
+59,Female,Medium,Master,Student,4.85,2999.37,6,330,0.8495437595541221,No,Medium,1
+58,Male,Medium,High School,Student,75.79,16.49,6,120,0.499822257748589,No,Medium,0
+37,Female,Medium,Bachelor,Student,56.0,134.32,7,72,0.3875663382998321,No,Low,0
+59,Female,Medium,Master,Employed,72.94,185.75,2,219,0.613072309882715,No,Medium,0
+20,Female,Medium,High School,Employed,18.37,254.69,7,302,0.055965557262007026,No,Low,1
+30,Male,Medium,Bachelor,Unemployed,33.87,138.71,6,123,0.5064611187670799,No,Low,1
+47,Male,Low,Master,Self-Employed,79.61,113.76,6,244,0.8708905700266667,Yes,Low,1
+76,Male,Medium,Bachelor,Self-Employed,13.23,1545.61,6,75,0.2134615161389688,Yes,Low,1
+44,Male,Low,High School,Unemployed,12.81,1253.71,5,6,0.4263898947694251,No,Low,0
+69,Male,Medium,Bachelor,Unemployed,40.04,24.07,7,21,0.9394808877148755,Yes,Low,0
+42,Male,Medium,Master,Student,37.07,206.86,5,190,0.4285638378056973,No,Low,0
+50,Male,Medium,Bachelor,Unemployed,16.58,259.72,9,225,0.3583676323323983,Yes,Medium,1
+49,Male,Medium,High School,Retired,17.7,136.57,6,103,0.4405366481233782,Yes,Low,0
+61,Female,Low,Bachelor,Self-Employed,16.28,495.61,5,344,0.5194527665175563,Yes,Medium,1
+54,Female,Medium,Bachelor,Unemployed,73.81,511.35,3,99,0.6319913441314688,No,Medium,0
+26,Male,Medium,Bachelor,Retired,52.76,950.24,10,318,0.8006928009167311,No,Medium,0
+79,Male,Medium,Master,Retired,89.31,675.21,3,363,0.45210220576431426,No,Medium,0
+35,Female,High,High School,Retired,185.4,391.07,4,83,0.8174809350901403,No,Low,0
+45,Male,Low,Master,Retired,32.14,530.06,4,181,0.5337206613520806,Yes,Low,1
+67,Male,Medium,High School,Student,3.45,160.09,5,152,0.33848051036797766,No,Medium,0
+76,Male,Medium,Bachelor,Retired,2.46,449.54,8,56,0.6579508281194142,No,High,0
+71,Female,Medium,High School,Student,17.53,335.92,2,190,0.7177222547434914,Yes,Low,0
+79,Female,Low,Bachelor,Student,134.81,71.56,12,22,0.5580489756294875,No,Low,0
+68,Female,Low,Bachelor,Retired,37.03,138.9,4,68,0.05661497313472341,No,Low,0
+21,Female,High,Bachelor,Self-Employed,15.86,172.44,2,185,0.1698828751608249,No,Medium,0
+20,Female,Medium,High School,Retired,25.47,1290.55,3,10,0.2852977208902282,No,Low,1
+67,Male,Medium,Bachelor,Retired,45.64,130.93,1,66,0.2826256059514931,Yes,Medium,0
+31,Female,Medium,High School,Retired,52.91,170.71,8,264,0.6734208002468706,No,Medium,0
+24,Male,Medium,Master,Self-Employed,8.36,230.51,8,225,0.018348661673632582,Yes,Medium,0
+56,Male,Low,PhD,Employed,188.68,544.94,6,123,0.7556817770495199,No,Medium,0
+51,Female,Medium,Bachelor,Employed,39.35,62.92,3,38,0.2653424748069332,No,Medium,0
+78,Female,Medium,Bachelor,Student,7.29,1538.96,5,123,0.3100218462161024,No,Low,0
+74,Male,High,Bachelor,Student,112.04,1003.36,5,318,0.5279098279439243,Yes,High,0
+28,Male,Low,High School,Self-Employed,3.88,430.45,5,156,0.21592560093895752,No,Medium,0
+60,Male,Medium,Bachelor,Unemployed,119.15,560.49,3,301,0.8844713135755276,No,Medium,0
+54,Female,Medium,Master,Employed,283.7,8.4,9,321,0.08536877932656528,No,Medium,1
+38,Female,Medium,Bachelor,Student,60.27,206.96,6,67,0.44438236230106487,No,Low,1
+67,Female,Medium,High School,Employed,73.58,793.99,7,133,0.84942226945489,No,Medium,0
+35,Female,Medium,Master,Self-Employed,20.57,40.32,5,362,0.6158438944212358,No,Low,0
+22,Female,Medium,Bachelor,Self-Employed,142.0,165.86,4,140,0.29232951584263345,No,Medium,0
+39,Male,Medium,Master,Unemployed,37.72,440.1,4,82,0.4207602077764607,No,Low,0
+43,Female,Medium,Bachelor,Unemployed,65.91,148.13,3,58,0.7066943803425146,No,Low,1
+73,Male,High,Bachelor,Self-Employed,128.92,1358.88,11,149,0.9732607433638993,Yes,Low,1
+75,Male,Medium,High School,Student,184.81,70.24,4,131,0.8931387183794335,No,Low,0
+52,Male,Medium,High School,Employed,89.55,798.25,6,69,0.3424328083823768,No,Low,0
+43,Female,Low,PhD,Retired,18.05,354.59,8,345,0.9981978792878575,No,Medium,0
+71,Female,High,High School,Unemployed,169.88,693.81,4,250,0.003504663531058272,No,Low,0
+30,Female,Low,PhD,Retired,49.46,186.05,10,320,0.02762975580841509,No,Low,1
+68,Male,Low,Bachelor,Student,133.42,361.28,4,177,0.8238405151711938,No,Low,0
+27,Male,Low,High School,Unemployed,56.37,971.88,6,72,0.19946268683305202,Yes,Medium,0
+55,Male,Medium,High School,Retired,18.35,314.5,6,17,0.06076926839624086,No,Medium,0
+57,Male,Low,High School,Student,23.1,222.92,5,329,0.23714807323650222,No,Low,0
+59,Male,Low,PhD,Employed,39.98,384.1,4,160,0.4261001539808602,No,Medium,0
+39,Male,Low,Bachelor,Student,78.04,631.8,7,70,0.7305662704334048,No,Medium,0
+54,Female,Low,Bachelor,Unemployed,19.14,293.1,3,113,0.6243355265512055,No,Medium,0
+67,Female,Medium,Bachelor,Self-Employed,43.34,1397.43,6,232,0.23762121756042043,No,Low,1
+44,Female,Medium,High School,Employed,21.2,174.74,5,21,0.5032704481005844,No,Low,1
+54,Female,Medium,Bachelor,Retired,84.58,322.62,2,135,0.9262141053985687,No,Medium,0
+44,Male,Medium,High School,Unemployed,31.44,707.2,5,263,0.8150077769837577,No,Medium,1
+48,Male,Medium,Master,Self-Employed,3.99,584.18,1,111,0.3231897848317934,No,Medium,0
+37,Female,Low,Bachelor,Student,9.08,996.23,3,246,0.9822645613556963,No,High,1
+65,Male,Medium,Bachelor,Self-Employed,3.15,2873.74,6,283,0.708620400435131,Yes,Low,1
+37,Female,High,Bachelor,Unemployed,34.59,278.31,6,8,0.06244935566678178,No,Low,0
+21,Female,Medium,Bachelor,Unemployed,5.62,58.91,12,284,0.03516071328863868,No,Medium,1
+73,Female,Low,PhD,Self-Employed,6.06,15.44,3,207,0.16840794901002998,Yes,Low,0
+54,Male,Medium,Bachelor,Student,141.55,648.92,4,194,0.7278558680501468,No,Low,0
+35,Female,Medium,High School,Self-Employed,103.04,1035.79,3,47,0.1837389258424279,Yes,Medium,0
+60,Female,Medium,Bachelor,Unemployed,30.08,124.69,4,342,0.5114867692088335,No,Medium,1
+55,Female,Low,High School,Unemployed,212.74,86.25,0,242,0.09326012018083174,No,Low,1
+52,Male,Low,High School,Retired,0.01,32.11,7,10,0.9208861578301951,No,Medium,0
+23,Male,Low,PhD,Retired,47.59,864.96,7,289,0.34396061358356755,No,Low,0
+52,Female,High,Master,Employed,47.91,186.53,3,131,0.9081320565606308,No,Medium,0
+33,Male,Medium,PhD,Unemployed,30.57,256.83,4,270,0.9448756419105443,Yes,Low,1
+40,Male,Low,Bachelor,Retired,25.29,349.33,6,302,0.006128647313680791,No,Low,0
+67,Male,Low,Bachelor,Self-Employed,30.38,914.59,4,61,0.46413518719873204,Yes,Low,1
+39,Male,Medium,High School,Student,26.8,526.1,3,164,0.024656055706892888,Yes,Low,0
+75,Male,Low,High School,Self-Employed,65.56,477.34,4,13,0.9086927663029059,Yes,Low,0
+27,Male,Low,Master,Student,7.27,96.59,7,272,0.5184075447345758,No,Low,0
+26,Male,High,Bachelor,Retired,11.01,359.94,5,208,0.07494401269849682,Yes,Medium,1
+22,Male,Low,Master,Employed,9.95,628.3,4,246,0.11027672827656687,No,Medium,0
+36,Male,Medium,Master,Self-Employed,15.22,1810.81,11,133,0.38350902449273905,No,Low,1
+52,Male,High,High School,Self-Employed,37.25,112.45,2,244,0.9402341928728895,No,Low,0
+67,Female,Medium,Bachelor,Self-Employed,5.89,4.79,4,294,0.6929091515680809,No,Medium,0
+31,Female,Low,Bachelor,Student,101.31,39.14,5,38,0.8676188661891324,No,High,1
+78,Male,Low,High School,Retired,17.65,235.68,4,359,0.36645664633997965,No,Low,1
+70,Female,High,Master,Self-Employed,8.87,858.91,4,56,0.04321369954999832,No,Medium,1
+41,Female,High,Bachelor,Self-Employed,56.29,3.58,1,319,0.9743176372044141,Yes,Medium,0
+74,Male,Medium,High School,Employed,1.94,305.07,2,48,0.017172990662369547,Yes,Low,0
+41,Male,Low,Bachelor,Employed,48.38,199.66,9,105,0.947651653081089,No,Low,0
+65,Male,Medium,PhD,Retired,59.9,26.95,6,59,0.3686774238491447,No,High,0
+49,Female,High,High School,Retired,12.1,299.13,7,77,0.010090405021881521,No,Medium,1
+57,Female,Medium,Master,Unemployed,2.14,147.02,6,218,0.6891572317245083,No,Medium,0
+57,Male,High,High School,Employed,22.6,216.84,4,55,0.9805403040313542,No,Medium,0
+64,Male,High,Master,Unemployed,5.19,611.43,10,55,0.9656257228375925,No,Low,0
+70,Male,Medium,Master,Student,6.19,368.6,3,129,0.16093701120241843,No,Low,0
+73,Female,Medium,Bachelor,Unemployed,14.67,66.56,9,85,0.18124780606615498,No,Medium,0
+27,Female,Medium,Bachelor,Self-Employed,17.51,1627.44,0,214,0.5655389146196601,No,High,0
+46,Female,Low,Master,Unemployed,37.75,505.18,8,115,0.6373048264283244,No,Medium,0
+46,Female,Medium,Bachelor,Retired,56.72,725.94,7,314,0.7394179136658656,No,Low,0
+53,Male,Medium,Master,Student,44.92,41.26,1,293,0.1810503604721475,No,Medium,1
+40,Male,High,High School,Self-Employed,8.03,24.1,3,49,0.9590070867644345,No,Low,0
+49,Male,High,Master,Unemployed,9.44,9.82,4,67,0.6387392562892379,No,Low,0
+52,Male,Medium,Master,Student,105.5,104.62,4,275,0.8470469188705548,No,Low,1
+47,Female,Low,PhD,Student,40.86,267.57,5,129,0.5400657152841718,Yes,Low,1
+66,Female,Low,High School,Self-Employed,101.99,1373.08,8,29,0.4142768475898826,No,Medium,1
+52,Male,Low,Bachelor,Unemployed,23.22,305.38,8,343,0.977182906594996,Yes,Low,1
+24,Male,Medium,Bachelor,Student,47.65,171.42,4,33,0.5821213708198361,No,Medium,0
+79,Female,Medium,Bachelor,Student,37.08,412.69,1,119,0.8668735827991789,No,Low,0
+67,Male,High,Bachelor,Employed,19.22,59.35,7,180,0.9532923963662899,No,High,0
+38,Female,Medium,High School,Student,31.74,470.17,3,151,0.6753546270086592,No,Low,0
+23,Male,High,Master,Employed,34.91,420.17,2,133,0.548938678518675,No,High,1
+54,Male,High,Bachelor,Unemployed,11.21,785.09,7,327,0.0035108509106506203,No,Low,0
+68,Male,Medium,High School,Unemployed,18.92,2159.53,2,185,0.04001964073900599,No,Medium,1
+36,Male,High,Bachelor,Unemployed,78.37,144.42,8,134,0.20085121605111633,Yes,Low,1
+63,Male,Medium,Bachelor,Retired,123.72,356.32,6,177,0.18600843185599525,Yes,Medium,0
+47,Male,Low,High School,Unemployed,22.3,1197.71,4,22,0.25475879519984534,Yes,Medium,1
+49,Male,Medium,PhD,Student,18.33,769.0,6,241,0.3049346376976608,No,Low,0
+48,Female,Medium,PhD,Self-Employed,10.86,334.14,5,77,0.36006549355072826,No,Low,0
+65,Female,Medium,Bachelor,Employed,56.74,1453.6,3,204,0.42053769006887654,No,High,1
+72,Female,Medium,High School,Retired,19.51,29.47,9,4,0.09886633845601467,No,Low,0
+25,Female,Medium,Master,Unemployed,220.11,1336.81,5,328,0.04236193195278204,No,Low,1
+54,Female,Medium,Bachelor,Unemployed,19.7,25.91,5,165,0.6739444490730234,No,Low,0
+79,Male,Medium,Bachelor,Self-Employed,25.05,396.27,6,128,0.5373348248430777,No,Medium,0
+60,Male,Medium,Bachelor,Self-Employed,46.23,1105.65,5,45,0.44414420222011963,No,Medium,1
+56,Female,Medium,Bachelor,Retired,80.89,152.39,4,218,0.6344399411683523,No,Low,0
+43,Male,Medium,Bachelor,Employed,31.7,319.56,3,235,0.8276794072035405,Yes,Medium,0
+48,Female,Low,Bachelor,Unemployed,27.47,196.02,2,136,0.4276929091162046,Yes,Low,0
+68,Female,Medium,Bachelor,Retired,271.74,1519.78,6,168,0.6411194650519794,Yes,High,1
+65,Male,Low,PhD,Student,0.53,867.63,3,237,0.9535722238351587,No,Medium,0
+72,Male,Medium,Bachelor,Student,112.72,617.22,4,93,0.8396244958615607,Yes,Low,1
+50,Male,Medium,Master,Retired,8.08,442.91,6,5,0.42600081050240945,Yes,Low,0
+54,Female,Medium,Master,Unemployed,77.07,859.05,4,156,0.644716837814743,No,Low,0
+79,Male,Medium,Bachelor,Retired,48.11,249.01,7,245,0.17707092191593976,Yes,Medium,1
+52,Female,High,Bachelor,Unemployed,20.92,296.7,9,360,0.5605221848950899,Yes,Medium,0
+71,Female,High,Bachelor,Self-Employed,103.52,654.67,10,81,0.9813282911384428,No,Medium,0
+40,Female,High,Bachelor,Retired,0.65,221.39,7,247,0.5183151152025223,Yes,Medium,1
+51,Male,High,Master,Unemployed,12.85,33.02,6,343,0.9276382991901473,No,Low,1
+42,Male,Low,Bachelor,Retired,41.84,38.62,5,137,0.4073349205032607,No,Low,0
+52,Female,Low,PhD,Retired,21.66,61.29,4,63,0.9988448271846312,No,High,0
+22,Male,Medium,High School,Unemployed,47.13,1018.89,2,307,0.5792200352275578,No,Low,1
+37,Male,Low,High School,Unemployed,1.22,319.54,3,116,0.042268994235934554,No,Medium,1
+44,Male,Medium,Bachelor,Employed,6.19,623.93,4,113,0.5867547966913881,No,Low,1
+61,Female,Medium,High School,Retired,6.8,249.54,10,31,0.27457269567959663,No,Medium,0
+50,Female,Medium,High School,Student,10.49,149.68,2,7,0.03248132203589471,No,Low,1
+73,Male,Medium,Bachelor,Retired,30.75,213.24,1,3,0.8208533046946633,No,Medium,0
+77,Female,Medium,High School,Retired,69.74,790.38,4,307,0.2757296369807559,No,Medium,0
+22,Male,Medium,High School,Unemployed,117.98,490.7,9,243,0.7965485540464985,No,High,0
+59,Male,High,PhD,Retired,90.2,1387.41,6,56,0.28821758295586697,No,Medium,0
+65,Male,Medium,High School,Retired,10.96,569.26,10,73,0.19432635387377428,No,High,0
+43,Male,High,Master,Student,29.09,422.2,6,10,0.9739355741044274,No,Medium,0
+69,Female,Low,Master,Unemployed,11.12,471.06,4,61,0.36164532775501956,No,Medium,0
+51,Female,High,PhD,Retired,15.36,1426.87,4,50,0.6013762114431604,No,Low,0
+66,Female,Medium,High School,Self-Employed,35.01,776.06,9,122,0.6099814928144716,No,High,0
+41,Male,Medium,Master,Employed,3.53,12.17,5,175,0.5604734821735018,No,Low,0
+42,Male,Low,Bachelor,Student,12.31,381.93,4,1,0.9146957435212146,No,Medium,0
+21,Male,Medium,Bachelor,Retired,136.96,582.92,2,38,0.6744410713668685,No,Low,0
+46,Female,Low,Bachelor,Self-Employed,31.38,690.55,5,190,0.4037330041049302,No,Low,0
+61,Male,Low,Master,Retired,29.47,119.85,4,79,0.862380384524274,Yes,Medium,0
+21,Female,Medium,Bachelor,Retired,0.73,1009.37,5,345,0.1810628991159644,No,Low,1
+45,Female,Medium,Master,Unemployed,14.21,1560.0,2,338,0.5442367576104175,No,High,1
+36,Female,Medium,Bachelor,Unemployed,100.61,135.06,6,190,0.9505503719437564,Yes,Low,1
+59,Female,High,Master,Unemployed,8.99,1071.15,5,184,0.6253976298804127,No,Low,0
+52,Female,Medium,PhD,Self-Employed,26.82,51.0,4,67,0.8169684504748762,No,High,0
+28,Female,Medium,High School,Retired,0.72,28.66,4,17,0.6535607255451928,Yes,Medium,0
+62,Male,Low,PhD,Employed,32.54,69.19,2,316,0.8393708635378904,No,High,1
+73,Male,Medium,High School,Student,1.06,29.74,4,296,0.9444878798452436,No,Medium,0
+67,Female,Medium,High School,Unemployed,85.63,932.2,6,209,0.2729217275327368,Yes,Low,0
+58,Female,High,High School,Unemployed,87.11,30.43,5,345,0.16966108125671886,No,Medium,0
+48,Male,High,Bachelor,Retired,77.5,158.5,7,41,0.4839907503325399,No,Medium,0
+61,Female,Medium,Bachelor,Retired,16.66,54.77,1,115,0.7018624268242158,No,Medium,1
+74,Female,Low,High School,Self-Employed,90.77,175.08,2,100,0.2271912531822161,Yes,Medium,1
+45,Male,High,High School,Self-Employed,39.15,47.46,5,345,0.004101450430167075,No,Medium,1
+54,Female,Medium,PhD,Unemployed,23.4,551.32,6,349,0.34293511583670533,No,Low,0
+69,Female,Low,Master,Retired,49.09,71.55,8,139,0.9688593354677885,No,Medium,1
+44,Female,Low,Master,Employed,0.62,954.75,5,316,0.6949674606058467,Yes,Low,0
+43,Male,Medium,Master,Student,7.71,849.66,9,324,0.40132544394122394,No,Medium,1
+32,Male,Low,Master,Retired,67.8,6.88,1,334,0.19257609734684034,No,Medium,0
+79,Male,High,High School,Retired,14.0,1130.37,3,302,0.356089673754747,No,Low,0
+77,Female,Medium,Bachelor,Self-Employed,45.57,14.69,5,294,0.16983943330124796,No,Medium,0
+26,Female,Low,Master,Student,24.31,136.99,4,17,0.10630582131295141,No,Medium,0
+76,Male,High,High School,Unemployed,96.48,16.46,2,322,0.9067423725725539,No,Low,1
+55,Female,Medium,Bachelor,Retired,152.26,204.62,4,292,0.9976503383754736,No,Medium,1
+64,Female,Medium,High School,Unemployed,107.52,360.64,2,74,0.1641144395957903,No,Medium,0
+39,Female,Low,Bachelor,Retired,15.78,796.4,3,263,0.054522558878279725,No,Low,0
+20,Female,Low,Bachelor,Unemployed,10.79,206.23,9,16,0.32973110714621234,No,Low,0
+27,Female,Medium,Bachelor,Student,32.16,611.22,5,14,0.4616591807614153,No,High,1
+65,Male,Medium,Bachelor,Self-Employed,0.37,103.82,2,336,0.20482124707585447,No,Medium,0
+35,Female,Medium,Bachelor,Student,1.31,694.35,6,281,0.30142491179855846,No,High,0
+33,Male,Medium,High School,Employed,40.29,134.59,6,361,0.2008707356916577,No,Medium,0
+31,Female,Medium,High School,Self-Employed,36.75,77.48,6,4,0.7742605684324513,No,Low,0
+70,Male,Low,Master,Student,260.9,102.53,4,127,0.7125779432472608,No,Low,1
+42,Female,Medium,Bachelor,Employed,11.27,100.49,8,312,0.6349515157609817,No,Low,0
+34,Male,High,High School,Retired,14.93,359.6,5,6,0.38721785707920475,No,High,0
+47,Female,Medium,Master,Retired,6.03,931.51,8,129,0.909040941314236,No,Medium,1
+53,Male,Medium,High School,Unemployed,124.77,41.48,9,232,0.96953254153502,No,Low,0
+21,Female,Low,Bachelor,Self-Employed,75.21,613.72,5,313,0.173639312625412,Yes,Medium,0
+51,Male,Medium,High School,Retired,86.39,531.16,6,195,0.22301264141187804,No,Low,0
+42,Female,Medium,Master,Self-Employed,116.53,1029.9,6,65,0.5256310280003696,No,Low,0
+41,Male,High,Bachelor,Retired,37.21,139.95,6,321,0.09125056928224529,Yes,Low,0
+70,Male,Medium,High School,Unemployed,30.0,299.02,6,103,0.4364483988231128,No,High,1
+44,Female,High,Master,Student,20.05,1300.68,2,277,0.5817912647777101,No,Medium,1
+77,Female,Medium,Bachelor,Unemployed,44.48,539.4,2,158,0.5220735711373331,No,Low,1
+41,Male,Low,High School,Employed,30.28,246.14,6,224,0.33090858307802606,No,Low,1
+77,Female,Medium,High School,Retired,30.03,70.44,8,289,0.5424458060772068,Yes,Low,0
+77,Male,Low,High School,Employed,138.17,152.23,6,278,0.9588009542588478,No,High,0
+41,Male,Low,High School,Employed,206.86,435.2,8,182,0.20601740429137605,Yes,Low,0
+68,Male,High,Bachelor,Self-Employed,79.6,633.22,5,4,0.6548313583940036,No,Low,1
+71,Female,Medium,Master,Retired,70.68,66.44,6,215,0.04339669415605185,No,High,0
+61,Male,Medium,Bachelor,Employed,57.06,457.64,8,217,0.06641640448143493,No,Low,0
+25,Male,Low,High School,Student,9.08,399.64,2,209,0.551828224223585,No,Low,0
+34,Female,Medium,High School,Employed,3.05,360.73,8,74,0.10493918032794947,No,Medium,0
+73,Female,Low,High School,Student,58.68,585.79,2,227,0.022346788426857334,No,Medium,0
+62,Female,Low,Bachelor,Self-Employed,65.24,908.38,8,93,0.1715129976480222,No,Low,1
+79,Female,Medium,Master,Employed,2.41,195.03,3,65,0.5648491709995744,Yes,Medium,0
+56,Male,Low,High School,Unemployed,131.59,1099.17,9,321,0.7033409545189324,No,Low,1
+52,Male,Medium,Master,Self-Employed,4.78,87.55,7,10,0.20247856414138,No,Medium,0
+27,Male,Low,Master,Student,16.84,94.99,7,303,0.6682594372081745,Yes,Medium,1
+72,Male,Low,Bachelor,Self-Employed,55.8,155.15,4,322,0.18247633109922934,No,Low,1
+79,Female,Low,Master,Employed,9.31,63.65,8,305,0.6134574266312571,No,Low,1
+63,Male,Medium,Bachelor,Retired,2.85,130.89,3,278,0.41195967989579885,No,High,0
+63,Male,Medium,Bachelor,Retired,20.11,56.26,5,86,0.6537995093336167,No,Low,0
+24,Female,Medium,Bachelor,Student,72.62,862.29,3,26,0.9950527524792473,No,Medium,0
+58,Male,Medium,Bachelor,Student,26.69,74.81,4,218,0.937816965232562,No,High,0
+23,Male,Medium,High School,Retired,52.92,687.77,2,95,0.004281757836103628,Yes,Medium,0
+25,Male,Low,Bachelor,Student,43.33,24.55,2,244,0.8854387643623057,No,Medium,1
+64,Male,Medium,High School,Self-Employed,1.12,1483.28,5,107,0.06649079517476653,No,Low,0
+51,Male,High,Bachelor,Unemployed,223.44,620.94,9,248,0.9530465861598449,No,Low,0
+71,Male,Medium,High School,Unemployed,2.12,3.41,6,14,0.2818256790996847,No,Low,0
+49,Female,Medium,PhD,Self-Employed,171.79,721.66,5,161,0.38203483041127095,No,Low,1
+66,Female,High,Master,Unemployed,39.91,360.86,1,71,0.09163820517572785,No,Medium,1
+54,Male,Medium,Bachelor,Employed,165.06,755.62,6,152,0.1122727583289096,No,Low,0
+74,Male,Low,High School,Self-Employed,6.09,369.59,6,75,0.7267405652293196,No,Low,0
+59,Female,Medium,Master,Student,33.71,512.25,3,215,0.9443322357482916,No,Low,1
+71,Male,Medium,Master,Self-Employed,9.29,771.67,4,51,0.6107484949543095,No,Low,0
+35,Male,Medium,Master,Retired,2.62,259.69,4,143,0.715850015526811,Yes,Low,0
+32,Male,Medium,High School,Student,48.06,1.36,4,36,0.7619697445971535,Yes,Medium,1
+69,Female,Medium,Bachelor,Retired,11.65,948.38,5,167,0.2628142745529417,No,Low,1
+79,Male,Medium,High School,Student,44.3,239.74,7,236,0.045229630920214925,No,Low,0
+61,Female,Medium,High School,Unemployed,5.96,342.63,7,260,0.0018727439191685846,No,Low,0
+49,Male,High,Master,Self-Employed,20.17,3.9,5,192,0.35064928295401865,Yes,Medium,0
+38,Female,Medium,Master,Employed,76.08,338.73,13,202,0.2414642281992161,No,Low,0
+36,Female,Low,Bachelor,Student,28.73,2152.07,8,262,0.062317725049185646,No,Low,0
+75,Male,Medium,Master,Student,49.41,163.05,2,185,0.17952829249366675,No,Medium,0
+38,Female,Low,Bachelor,Retired,52.13,251.61,3,158,0.1244988982679478,No,Low,0
+47,Male,Medium,Bachelor,Unemployed,92.82,581.08,5,246,0.9148783806173704,No,Medium,0
+77,Female,Medium,Bachelor,Retired,19.65,843.14,9,110,0.14026721345916893,Yes,Medium,0
+74,Male,Low,PhD,Retired,58.12,270.12,7,99,0.5376484639876792,Yes,Medium,0
+45,Male,Medium,High School,Unemployed,163.01,185.29,6,241,0.5931059551121646,Yes,Low,0
+56,Female,Low,PhD,Employed,65.51,1388.91,7,202,0.5434894577086338,No,Medium,0
+45,Male,Low,Master,Retired,33.65,565.28,5,122,0.09905643421598798,Yes,Medium,0
+72,Male,Medium,High School,Retired,49.81,63.36,6,117,0.3187983617505512,No,Medium,0
+42,Female,Medium,Bachelor,Student,67.29,35.71,4,96,0.05127033246315327,No,Medium,1
+28,Male,High,Master,Unemployed,47.37,330.39,3,234,0.395669914096316,No,High,0
+31,Male,Medium,Bachelor,Self-Employed,0.84,124.29,7,67,0.188598931271592,No,Medium,1
+72,Female,Medium,PhD,Employed,10.83,146.5,6,218,0.5616325332843798,Yes,Low,0
+20,Female,Medium,PhD,Employed,83.16,1050.61,4,15,0.6928083938491005,No,Low,0
+77,Male,Low,Bachelor,Unemployed,15.92,46.92,5,273,0.5321198602047065,No,Medium,0
+77,Male,High,Bachelor,Student,65.76,628.27,5,219,0.43423669661139574,Yes,Medium,0
+20,Female,Medium,PhD,Student,23.27,158.14,3,274,0.3873334208566924,No,Low,1
+66,Female,Medium,Bachelor,Unemployed,36.9,714.24,2,147,0.8416917680970037,No,Medium,1
+53,Male,Low,High School,Student,3.52,640.81,1,332,0.21936806506527007,No,Low,1
+51,Female,Medium,High School,Employed,10.0,3.71,3,344,0.7342183395288688,No,Low,0
+73,Male,Medium,Bachelor,Employed,157.56,355.79,2,152,0.757482324740119,No,Medium,0
+67,Male,High,PhD,Self-Employed,110.43,75.02,6,347,0.4192000072707345,No,Medium,0
+44,Male,Low,Master,Unemployed,52.82,1005.81,4,304,0.29730059922563934,Yes,Low,0
+59,Male,Medium,Bachelor,Retired,30.78,1026.25,4,15,0.47054148604597523,No,High,0
+64,Male,High,High School,Retired,56.31,270.94,7,354,0.0932139258926985,Yes,Medium,1
+72,Female,Medium,High School,Self-Employed,48.2,293.85,4,84,0.04593003222908998,No,Medium,1
+20,Female,Medium,Master,Self-Employed,42.03,180.69,3,192,0.11160319945189179,No,Low,0
+35,Female,Low,High School,Student,3.05,630.46,4,41,0.18714503146222616,No,Low,0
+58,Female,High,High School,Self-Employed,50.09,222.1,4,352,0.504176820338043,No,High,0
+24,Male,Low,High School,Self-Employed,73.25,155.85,5,324,0.8491366361611221,No,Low,0
+41,Male,Medium,Bachelor,Retired,256.48,283.02,6,261,0.23564233199968698,No,Medium,0
+48,Male,Medium,PhD,Student,0.56,47.97,3,309,0.9351620107467781,No,Low,1
+74,Male,Low,High School,Self-Employed,65.5,686.4,4,136,0.9549079089350034,No,Medium,0
+22,Female,Medium,Bachelor,Self-Employed,42.41,6.34,3,278,0.9589046048452052,No,Low,0
+31,Male,Low,Bachelor,Student,28.46,517.09,2,106,0.8375627346763238,No,Low,0
+45,Male,Low,PhD,Unemployed,6.82,100.98,0,7,0.3638250407977206,Yes,High,0
+35,Female,Medium,High School,Student,26.3,132.25,5,302,0.07268391100262306,No,Medium,1
+70,Female,High,Bachelor,Retired,21.88,504.8,4,30,0.5688187317664949,No,Medium,0
+56,Female,Medium,Bachelor,Unemployed,18.04,2476.9,7,126,0.5586814439372337,Yes,Medium,1
+41,Female,Medium,Master,Employed,65.63,751.9,1,357,0.8499757671095955,Yes,Medium,0
+76,Male,Low,Bachelor,Student,60.32,127.99,3,79,0.9959910509461052,Yes,Low,1
+48,Male,Low,High School,Retired,44.46,96.81,5,67,0.5081573065601476,No,Low,0
+33,Female,Low,Bachelor,Unemployed,139.57,1005.83,5,23,0.34520403103978425,No,Medium,0
+47,Male,Low,Master,Student,21.53,293.66,7,189,0.185901711556267,No,Low,1
+24,Male,Medium,High School,Self-Employed,13.97,73.7,2,74,0.004799824817370735,No,Low,1
+66,Male,Medium,Master,Student,53.34,991.02,4,5,0.5091136924888792,No,Low,1
+68,Female,Medium,High School,Employed,11.08,846.66,4,82,0.5555186667025958,No,Medium,0
+49,Male,Low,Bachelor,Student,18.92,2064.67,4,25,0.8249384798173974,No,Medium,1
+65,Female,Medium,Bachelor,Unemployed,12.72,1202.55,6,264,0.5045769678928006,No,Medium,1
+71,Male,High,Master,Unemployed,3.58,954.56,8,2,0.9164683486660565,No,Medium,0
+24,Male,Low,Bachelor,Student,87.87,27.0,6,278,0.6280834765714355,No,Low,1
+31,Male,High,Master,Unemployed,14.69,55.14,5,328,0.8403362382210832,No,Low,0
+35,Female,High,Master,Self-Employed,32.03,420.8,3,343,0.1483017348077471,No,Medium,0
+45,Male,Low,Bachelor,Student,2.21,379.09,2,224,0.8553361303023147,Yes,High,0
+45,Female,Medium,Master,Self-Employed,60.09,306.21,7,72,0.6751438544438484,Yes,Low,1
+67,Female,Medium,Master,Self-Employed,20.07,252.74,3,68,0.17023303243833054,No,Low,0
+40,Female,Medium,High School,Retired,68.27,282.12,6,320,0.18976355814601087,No,Low,0
+58,Male,Medium,Bachelor,Student,26.59,421.17,2,94,0.9265006190442213,No,High,0
+55,Male,Medium,PhD,Unemployed,10.89,1.04,7,19,0.032215360450372876,No,Low,0
+52,Male,Medium,High School,Self-Employed,35.99,151.03,4,128,0.4625349432957061,Yes,Low,0
+49,Male,Medium,Master,Retired,6.99,365.2,9,343,0.31347528993410156,Yes,Low,0
+56,Female,Medium,PhD,Student,29.04,640.46,9,82,0.665077439998428,Yes,High,1
+42,Female,Medium,High School,Student,19.09,95.68,3,254,0.839629387568992,No,Medium,1
+77,Female,Medium,Bachelor,Employed,121.5,395.8,10,221,0.36037812155656956,No,Medium,1
+29,Male,Medium,Bachelor,Employed,3.14,626.69,8,343,0.4269020873228372,No,Low,1
+73,Female,Low,Bachelor,Self-Employed,59.21,294.06,3,97,0.9819177845014142,No,Low,0
+24,Male,Low,High School,Employed,10.09,13.73,6,52,0.7839165096792028,No,Low,0
+55,Female,High,High School,Self-Employed,19.21,298.25,5,175,0.8972041309317914,No,Low,0
+53,Male,Medium,Bachelor,Unemployed,26.85,175.8,4,338,0.43876222065162973,No,High,0
+71,Male,Low,Master,Self-Employed,119.31,1327.13,1,182,0.23407620398411522,No,High,1
+50,Female,Low,Master,Employed,13.89,66.54,3,353,0.4118634653864517,No,Medium,0
+29,Female,Low,Bachelor,Unemployed,4.79,528.46,5,115,0.7160919178315135,Yes,Medium,1
+77,Female,High,High School,Employed,19.19,27.08,5,348,0.10943040483597932,Yes,Low,0
+38,Female,Medium,Bachelor,Self-Employed,5.53,295.45,7,1,0.27046910561650883,Yes,Low,1
+77,Male,High,High School,Retired,6.88,403.7,2,63,0.046635900461590385,Yes,Medium,0
+51,Female,Medium,PhD,Student,42.65,176.88,4,248,0.43234773833813156,No,Low,0
+20,Female,Medium,Master,Employed,3.14,303.55,4,231,0.8274457359796132,No,Low,1
+75,Female,Medium,Master,Self-Employed,1.57,89.3,4,226,0.0246636882980108,No,Medium,0
+24,Male,Medium,PhD,Unemployed,62.66,181.29,8,19,0.675323526807166,No,Medium,1
+64,Male,Low,High School,Employed,22.44,485.25,9,31,0.9324958745137396,No,Medium,0
+23,Female,High,Master,Employed,6.7,179.62,6,333,0.23692786151118228,No,Medium,0
+35,Male,High,Bachelor,Student,14.63,1150.01,3,121,0.6936348407276481,No,Low,1
+43,Female,Medium,PhD,Self-Employed,51.37,494.98,5,24,0.9751019011002003,No,Medium,0
+35,Male,High,High School,Retired,16.12,288.7,5,325,0.9622780601524632,Yes,High,1
+74,Male,High,Master,Unemployed,34.11,19.76,4,211,0.23492919302914328,No,Low,0
+21,Male,Medium,Master,Self-Employed,6.49,346.12,3,161,0.1003310532120687,No,Low,0
+68,Male,Low,High School,Unemployed,44.35,723.61,2,255,0.14828253789591594,No,Medium,0
+47,Female,Medium,Bachelor,Employed,19.0,154.32,3,59,0.7020356684821422,No,Low,0
+51,Female,Medium,Master,Student,49.3,821.95,3,114,0.7257588754532756,No,Medium,0
+46,Female,Low,Bachelor,Student,82.62,145.05,6,160,0.674236561628199,Yes,Medium,0
+39,Male,Low,High School,Retired,47.29,867.92,6,220,0.3360783877422381,Yes,Low,0
+43,Female,Medium,High School,Student,17.53,44.56,2,357,0.16977693975812214,No,Medium,0
+31,Female,Low,High School,Employed,14.77,1005.64,2,169,0.5807610919522531,No,Low,0
+69,Female,Medium,Master,Retired,19.83,345.76,3,12,0.4836804457578665,No,Medium,0
+54,Male,High,Bachelor,Self-Employed,8.99,175.87,10,242,0.7288341471223034,Yes,High,0
+79,Male,High,High School,Student,9.99,154.02,1,139,0.44136007868562144,No,Low,0
+52,Male,Low,Bachelor,Retired,78.2,282.83,4,97,0.3386396946864684,No,Medium,0
+52,Female,High,Bachelor,Employed,24.28,3479.26,3,147,0.2934785773590144,No,Low,0
+70,Female,Low,High School,Unemployed,28.63,124.44,8,182,0.21147032004974653,No,Low,0
+62,Female,Low,Bachelor,Unemployed,45.08,54.47,1,57,0.2657463761866614,No,Low,1
+56,Male,Medium,Bachelor,Employed,44.54,439.78,8,42,0.09483043884410136,No,Low,1
+31,Male,Medium,Bachelor,Employed,3.49,335.25,8,354,0.34685701092888954,No,Medium,0
+22,Female,Medium,Master,Unemployed,89.05,371.37,5,199,0.0365698123629582,Yes,Low,0
+20,Male,Medium,High School,Retired,9.76,549.71,9,31,0.1864138471663268,Yes,Low,1
+52,Male,Low,Bachelor,Unemployed,64.2,155.4,5,180,0.7467704446194291,No,Low,0
+59,Male,Low,Bachelor,Employed,74.07,1207.68,10,2,0.32546898867662266,No,Low,1
+29,Male,Medium,Bachelor,Student,62.75,286.06,9,288,0.6682370169773438,No,Low,1
+62,Female,Medium,Bachelor,Self-Employed,43.25,69.11,4,138,0.7168841755972774,No,Medium,0
+63,Male,Medium,Bachelor,Student,0.74,677.98,5,105,0.5811853427321135,No,Low,0
+48,Male,Low,Master,Student,22.34,515.16,7,218,0.9586977413653984,No,Medium,1
+32,Male,Medium,Bachelor,Employed,46.42,189.71,8,222,0.021439866623113257,No,Medium,1
+31,Male,Low,Bachelor,Unemployed,24.51,485.79,4,331,0.7386526505881421,Yes,Low,0
+50,Female,Low,Master,Retired,99.56,124.14,2,105,0.958786643940408,No,Medium,0
+65,Female,Medium,Bachelor,Student,18.47,294.25,8,127,0.8622717293529393,No,High,0
+21,Male,Low,High School,Unemployed,17.37,1148.36,7,265,0.16789269180501332,No,High,0
+70,Male,Low,High School,Retired,15.46,71.67,5,200,0.3268203062517321,No,Low,1
+69,Male,Medium,High School,Student,20.23,244.45,9,252,0.1724518398764654,Yes,Medium,1
+54,Male,Medium,Master,Retired,40.76,860.58,8,15,0.6013083638147041,No,Low,0
+42,Male,Medium,Master,Unemployed,61.38,1744.87,6,226,0.7121879819794923,Yes,Medium,1
+36,Male,Low,PhD,Self-Employed,54.32,302.5,6,353,0.3170737693630582,No,Medium,0
+45,Female,Low,Bachelor,Unemployed,82.44,353.62,5,105,0.5395065739842955,Yes,Medium,0
+27,Male,Low,Bachelor,Employed,108.54,424.52,4,233,0.690920570071195,No,Low,0
+48,Female,Low,High School,Retired,84.66,1346.69,9,319,0.42133981661104836,No,Medium,0
+45,Female,Medium,Bachelor,Self-Employed,0.96,976.69,2,219,0.8540155304554593,No,Low,0
+29,Male,High,Bachelor,Retired,66.57,93.53,8,277,0.7715499352878171,No,Low,0
+45,Female,Medium,PhD,Retired,11.68,287.02,5,261,0.06466554385057066,No,Low,1
+53,Female,Medium,High School,Student,7.13,311.81,4,341,0.621125299090829,No,Low,1
+70,Female,Medium,Bachelor,Employed,50.87,778.18,5,336,0.2353255509597496,No,Medium,0
+60,Female,Medium,Bachelor,Retired,19.26,461.77,3,190,0.5575182646672753,No,Low,0
+26,Female,Medium,Bachelor,Unemployed,2.94,530.98,8,198,0.9568884426329662,No,Low,0
+23,Female,Medium,Bachelor,Unemployed,7.4,3159.96,7,353,0.8790620045522501,Yes,Low,1
+77,Male,Medium,Master,Student,0.05,38.96,4,277,0.4045164031151317,No,Low,0
+72,Female,Low,High School,Employed,116.77,126.16,2,336,0.2915138583443534,No,Low,0
+69,Female,Medium,Master,Employed,1.25,262.04,3,39,0.234405744408259,No,Low,0
+64,Female,High,Bachelor,Unemployed,11.75,213.69,2,162,0.5325148697565201,No,Medium,0
+30,Male,Low,Master,Self-Employed,26.92,10.94,7,121,0.11424845325805633,Yes,Low,0
+48,Female,Low,Master,Student,22.05,48.13,5,262,0.5492750081282486,No,Low,1
+75,Male,Medium,Bachelor,Student,121.37,571.21,6,216,0.0013336394907920157,Yes,Low,1
+55,Female,Medium,High School,Unemployed,2.06,1057.32,2,312,0.32384963074584483,No,Medium,0
+44,Male,Medium,PhD,Unemployed,35.89,361.01,6,49,0.21993431383058126,No,Low,0
+40,Male,Medium,Bachelor,Self-Employed,57.05,387.39,3,92,0.971218789960782,No,Low,0
+76,Female,Low,PhD,Self-Employed,134.19,147.25,3,129,0.727242319569979,Yes,Medium,1
+55,Female,Medium,High School,Employed,48.43,730.24,3,321,0.3496533804622377,No,Low,0
+29,Male,Medium,Bachelor,Student,81.42,696.75,6,28,0.09284508653062051,No,Medium,0
+56,Female,High,Master,Student,4.37,443.81,5,356,0.516800594690624,Yes,Low,0
+28,Male,Medium,PhD,Unemployed,24.38,119.55,8,148,0.2134478813260423,No,Medium,0
+43,Male,Low,Bachelor,Employed,23.42,51.03,4,328,0.5364295458983578,Yes,Medium,0
+54,Male,Low,Master,Student,108.7,33.2,5,65,0.8353623541788925,Yes,Medium,0
+68,Male,Low,Bachelor,Employed,8.21,449.1,5,218,0.6157925521013854,No,Low,0
+54,Male,Medium,High School,Employed,8.24,871.59,7,51,0.6337884195450022,No,High,0
+67,Female,Low,Bachelor,Unemployed,19.92,977.13,6,305,0.5410302890628115,Yes,Low,0
+55,Male,Medium,Bachelor,Employed,2.8,311.46,1,74,0.9272656326314092,Yes,Low,0
+37,Male,Medium,PhD,Self-Employed,10.07,766.87,2,199,0.9319026844206033,No,Low,0
+68,Female,Low,Bachelor,Self-Employed,167.92,1467.6,7,192,0.5127232010735522,No,High,0
+58,Male,Low,High School,Retired,27.95,160.91,9,189,0.3057594871435044,No,Low,0
+51,Female,Low,High School,Unemployed,49.99,253.72,10,12,0.4595870058794439,No,Low,1
+43,Female,High,Bachelor,Retired,64.75,1340.31,7,239,0.18655791219561568,No,Medium,0
+42,Female,Low,Bachelor,Self-Employed,22.86,206.42,7,360,0.6363443153180893,No,High,0
+51,Male,Medium,Master,Retired,7.96,1225.99,2,81,0.5000923357822332,No,Medium,0
+56,Male,High,Bachelor,Unemployed,11.57,1982.84,5,270,0.10330047781327989,No,Low,0
+31,Male,Medium,PhD,Unemployed,18.79,542.07,5,290,0.19764778111961534,Yes,High,0
+68,Female,High,PhD,Employed,50.54,848.83,7,48,0.4796319561995268,Yes,Medium,1
+74,Male,Medium,Bachelor,Student,25.4,692.24,5,317,0.8875889907188583,No,Low,0
+32,Female,High,PhD,Employed,0.34,601.21,6,209,0.5663907206310974,Yes,Low,0
+42,Male,Low,Master,Unemployed,37.05,183.31,4,35,0.6815350002084708,Yes,Low,1
+44,Female,Low,Bachelor,Self-Employed,127.24,29.39,11,119,0.3390285497439097,Yes,Low,1
+54,Male,Medium,High School,Self-Employed,83.59,210.08,5,65,0.5714113930442343,No,High,1
+60,Male,High,Bachelor,Employed,87.21,549.71,6,315,0.4473798226380674,No,Low,1
+49,Male,High,Bachelor,Unemployed,79.25,54.09,3,242,0.6591299126231607,No,Medium,1
+36,Female,Low,Master,Self-Employed,19.56,5.99,1,36,0.05057556607901037,No,Low,0
+68,Female,Low,Bachelor,Unemployed,72.45,75.23,5,252,0.49330021623895914,No,Low,0
+39,Male,High,Master,Self-Employed,7.73,628.93,5,243,0.29599262514396696,No,Medium,0
+67,Male,Low,Bachelor,Unemployed,53.61,1802.15,5,42,0.32618506127790925,No,Low,1
+44,Female,Medium,High School,Retired,51.3,2039.18,6,69,0.9609174315580614,Yes,Medium,1
+41,Female,High,PhD,Unemployed,1.3,340.59,1,107,0.18269481271138277,Yes,High,0
+32,Female,Medium,Bachelor,Unemployed,77.55,1017.63,11,39,0.3112452525785969,Yes,Low,0
+78,Male,Medium,Bachelor,Employed,116.78,667.47,1,69,0.5098925757308718,Yes,Low,1
+38,Female,Medium,Bachelor,Retired,15.56,347.61,5,180,0.8630269481496237,No,Low,1
+68,Male,Low,High School,Student,83.67,425.21,6,12,0.41667008320637045,No,Low,0
+55,Female,High,Bachelor,Employed,4.3,73.8,5,339,0.743865280888171,No,Low,1
+31,Male,Medium,Bachelor,Student,45.81,1387.59,5,204,0.8563740982148024,No,High,0
+60,Female,High,Bachelor,Self-Employed,33.24,216.88,3,36,0.31001635582184894,No,Medium,0
+38,Female,Low,PhD,Student,39.47,295.43,5,126,0.39275018353870994,No,Medium,0
+31,Female,High,Bachelor,Unemployed,130.32,556.85,2,63,0.35655622368835627,No,High,0
+28,Female,Medium,High School,Student,102.52,203.16,7,332,0.8328558086179211,No,Low,0
+26,Female,Low,Bachelor,Employed,76.88,146.69,6,82,0.04434686195360116,Yes,Medium,1
+47,Male,Low,PhD,Employed,15.99,498.55,5,307,0.30842108882868,Yes,Medium,1
+33,Female,Medium,High School,Student,121.42,12.65,4,299,0.6794085575951299,No,High,1
+50,Female,Medium,High School,Employed,5.13,637.78,4,34,0.5654434995653427,No,Low,0
+71,Female,High,High School,Employed,95.98,360.8,6,240,0.4362893592936943,Yes,Low,0
+38,Male,Low,High School,Student,19.89,465.39,11,97,0.5399482272213844,Yes,Medium,0
+77,Female,Low,Master,Retired,2.76,499.67,6,49,0.19758458582831828,No,Low,0
+66,Male,Medium,Master,Retired,55.34,374.38,4,146,0.4307166216080104,Yes,Medium,0
+35,Female,Medium,Bachelor,Self-Employed,13.15,436.78,0,125,0.5017029841763491,No,Low,0
+72,Female,Medium,Bachelor,Employed,13.96,575.67,5,189,0.9011891219546017,Yes,High,0
+24,Male,High,Bachelor,Student,18.27,699.42,3,57,0.26083516280397634,No,Medium,1
+54,Female,High,PhD,Employed,3.29,649.97,2,349,0.8678285021649326,No,Low,0
+31,Male,High,PhD,Unemployed,9.75,1018.64,4,109,0.6442414008259819,No,Low,1
+44,Male,Medium,Bachelor,Employed,0.26,105.02,5,5,0.020340831067600984,Yes,Medium,0
+71,Female,Medium,Master,Employed,29.48,256.37,8,24,0.7246313368993936,No,Low,1
+78,Male,Medium,Master,Retired,4.4,1476.3,2,221,0.03555187754905509,No,Low,0
+40,Female,Medium,Bachelor,Student,57.39,252.58,4,315,0.9973811268138131,No,Low,0
+55,Female,High,High School,Employed,13.43,66.69,9,294,0.8726366876911978,No,Medium,0
+72,Male,Low,Bachelor,Retired,143.74,372.69,2,10,0.29734374754004567,No,Medium,1
+42,Male,Medium,Master,Self-Employed,102.49,57.98,5,165,0.2574112301967054,No,Low,0
+35,Male,Low,PhD,Retired,17.09,113.36,6,215,0.3814410821056089,No,High,0
+76,Male,Medium,Master,Retired,76.44,3194.11,6,126,0.35616696531444303,No,Medium,1
+58,Female,High,Master,Retired,81.29,389.75,6,267,0.37233781838538105,No,High,0
+64,Female,Medium,Bachelor,Employed,215.49,167.08,5,280,0.3182765461194804,Yes,Low,0
+72,Male,Low,Master,Employed,45.55,2627.15,5,88,0.6211334068483314,No,High,0
+61,Female,High,Master,Self-Employed,4.28,1698.99,5,114,0.16426366372062395,No,Low,0
+77,Female,Medium,Bachelor,Unemployed,52.04,290.57,5,21,0.8459812924460132,No,Medium,0
+58,Female,Low,Bachelor,Unemployed,49.04,150.82,2,148,0.8124024840313153,No,High,0
+33,Female,Low,Master,Unemployed,50.85,911.31,2,245,0.47648320785527043,No,Medium,0
+50,Male,Low,High School,Self-Employed,18.35,628.72,7,266,0.8527299652785476,No,Medium,0
+77,Male,Low,Master,Unemployed,98.19,580.68,4,217,0.2471450700302933,No,Low,1
+24,Female,High,High School,Unemployed,160.29,1118.0,5,240,0.017565455703966948,No,Low,0
+54,Male,Medium,Bachelor,Retired,12.28,584.65,2,232,0.619207925029823,No,Medium,0
+42,Male,High,Master,Employed,4.61,166.9,4,232,0.4579094069647154,No,High,0
+48,Male,Medium,High School,Employed,10.82,591.86,6,242,0.5671645462958707,No,Low,0
+62,Female,Low,High School,Retired,85.89,182.51,3,190,0.899339409018403,No,Low,0
+30,Female,Medium,Bachelor,Retired,56.45,711.98,6,229,0.9699255735659434,No,Low,0
+37,Female,Low,Master,Retired,50.54,483.46,3,66,0.634453139755603,No,Low,0
+66,Male,Medium,High School,Employed,25.69,40.29,9,279,0.7640555898524384,Yes,Medium,1
+31,Female,High,PhD,Unemployed,43.12,359.58,0,269,0.08380843348716427,No,Low,0
+28,Female,Medium,High School,Retired,18.4,210.26,2,209,0.16071558489150561,No,Medium,0
+29,Male,Medium,PhD,Self-Employed,32.43,199.17,3,16,0.7332048049529766,No,High,0
+77,Female,Low,PhD,Retired,78.77,460.97,9,297,0.43136545638800194,Yes,Low,0
+63,Female,Low,Bachelor,Student,198.81,194.54,4,220,0.4459652704044057,No,Low,1
+36,Male,Low,Bachelor,Retired,134.77,750.05,7,257,0.3086076816354366,No,Low,0
+57,Male,Medium,Bachelor,Employed,135.8,36.71,6,268,0.6073563834777438,No,Medium,0
+26,Male,Low,Bachelor,Retired,25.73,539.98,9,229,0.1851650454162026,No,Medium,0
+65,Female,Medium,High School,Student,31.63,828.25,4,119,0.6269162793138956,No,Medium,0
+32,Female,Medium,High School,Self-Employed,61.15,558.64,7,178,0.17379885713523968,No,Low,0
+59,Female,Medium,High School,Unemployed,127.68,343.81,3,20,0.0638260347097136,Yes,Medium,0
+61,Male,Low,Bachelor,Retired,7.66,1500.95,5,36,0.330357688699061,No,Low,0
+28,Male,Low,High School,Student,18.14,178.29,4,335,0.23114034200984768,Yes,Medium,0
+69,Female,High,Bachelor,Student,7.5,9.68,2,108,0.8889916385563323,No,Low,0
+46,Female,Medium,PhD,Self-Employed,47.34,282.81,1,189,0.0549534538686266,No,Low,0
+77,Male,Medium,Bachelor,Employed,18.29,16.78,2,178,0.17661369257412285,No,Medium,0
+21,Male,Low,Bachelor,Retired,19.73,1538.87,5,96,0.5487196055830494,No,Medium,0
+24,Male,High,Bachelor,Student,3.68,117.81,5,315,0.4810671908474736,Yes,Low,1
+48,Male,Medium,Master,Self-Employed,21.52,777.78,5,20,0.04585201837470154,No,Low,0
+56,Female,Medium,PhD,Unemployed,99.21,744.88,8,164,0.007252428015144474,Yes,Low,1
+57,Male,High,Master,Student,13.27,122.78,6,97,0.9880679419611499,Yes,Low,0
+38,Female,Low,PhD,Self-Employed,59.4,485.41,3,143,0.6588347003588382,No,Medium,1
+27,Female,Medium,High School,Employed,49.66,24.64,3,62,0.3654061309015568,Yes,Low,0
+67,Female,Medium,Master,Employed,99.57,330.41,5,242,0.4704322476632413,No,Medium,0
+64,Male,Low,Master,Student,7.09,7.38,3,238,0.26655012045428694,No,Low,1
+20,Male,High,High School,Student,189.91,1270.07,2,131,0.34487378369320976,Yes,Medium,1
+41,Male,Medium,PhD,Retired,43.69,1866.65,6,93,0.649044467268214,Yes,Low,0
+71,Male,Medium,High School,Self-Employed,269.9,125.7,6,91,0.8828117988673707,No,Medium,0
+36,Female,Low,Bachelor,Student,121.25,116.66,6,133,0.18413002308118487,No,Medium,0
+26,Male,Low,High School,Retired,12.52,700.64,6,123,0.8403615053853187,No,Medium,1
+44,Male,Medium,Bachelor,Retired,2.89,146.1,7,342,0.12155662951826907,No,Low,0
+64,Female,Medium,Master,Student,14.76,1127.26,2,118,0.2149922235883912,No,Low,0
+23,Male,Low,Bachelor,Employed,37.49,426.57,7,198,0.03717528804964598,No,Low,1
+55,Female,Medium,Bachelor,Self-Employed,9.41,215.99,4,282,0.14081186209299945,No,Medium,1
+25,Female,Medium,Bachelor,Self-Employed,9.16,893.96,5,1,0.9173031454640506,No,Low,0
+79,Female,Low,Master,Employed,31.05,340.02,5,211,0.4594387466183786,No,Low,0
+50,Female,Medium,High School,Student,1.69,1213.13,5,263,0.07766586177835355,No,Medium,1
+38,Female,Low,Bachelor,Self-Employed,6.5,1315.64,4,332,0.9597268380389613,No,Medium,0
+63,Female,High,PhD,Student,26.88,90.41,4,212,0.8789923077586501,No,Medium,1
+73,Female,Medium,Master,Student,3.26,1.16,3,87,0.7546825208681412,Yes,Medium,0
+58,Female,Low,Bachelor,Retired,25.27,2065.43,3,153,0.9334727919475578,No,Medium,0
+46,Male,Medium,Master,Employed,32.12,1182.96,7,350,0.22012942083576414,No,Low,0
+29,Male,Medium,Master,Student,30.01,28.52,5,187,0.8363692930100863,No,Medium,0
+45,Male,Medium,Master,Unemployed,101.69,894.98,4,61,0.6899911963543062,Yes,Low,1
+38,Male,Medium,Bachelor,Employed,37.76,306.06,9,285,0.8697592495676884,No,Low,0
+58,Female,Medium,High School,Self-Employed,31.55,149.85,5,95,0.7969115657426298,No,Low,0
+22,Male,Low,High School,Retired,26.44,1054.94,5,274,0.346495063176825,No,Low,0
+64,Female,Low,High School,Self-Employed,85.08,109.49,6,41,0.7743985370172556,Yes,High,0
+32,Male,Low,Bachelor,Self-Employed,112.72,1471.57,6,147,0.2624563029848903,No,Low,0
+69,Male,Medium,High School,Employed,95.95,115.1,6,246,0.32859216302805483,Yes,Medium,0
+47,Male,High,Bachelor,Self-Employed,55.97,475.55,4,132,0.10790571722297615,No,Low,0
+77,Female,Medium,Bachelor,Student,7.39,126.21,3,297,0.9350766159804688,No,Low,1
+39,Male,Low,High School,Self-Employed,16.21,394.46,4,123,0.29100336340028155,Yes,Low,1
+47,Female,Medium,Master,Retired,2.36,575.97,5,143,0.5206224651714518,No,Low,0
+27,Female,High,Bachelor,Retired,133.56,105.5,2,182,0.39133283646619266,No,Medium,0
+60,Male,Medium,High School,Unemployed,54.06,367.91,6,192,0.9599281205835015,No,High,0
+58,Male,High,Master,Retired,68.59,316.55,0,207,0.3350491709384824,No,Low,0
+20,Male,Low,High School,Self-Employed,18.67,36.84,9,231,0.778545821422689,No,High,1
+22,Female,Low,Master,Retired,93.43,852.72,3,22,0.85541615463118,No,Low,0
+32,Male,High,Master,Employed,15.03,204.5,10,80,0.4356064974809659,No,High,0
+47,Female,Medium,Bachelor,Retired,0.08,427.34,4,130,0.37817181445293124,No,Low,0
+76,Female,Medium,Master,Student,23.61,361.58,4,292,0.747745820932628,No,Medium,0
+79,Male,Medium,Bachelor,Employed,42.29,360.01,7,276,0.9128959803062341,Yes,Low,0
+68,Male,High,Bachelor,Unemployed,32.57,56.71,5,323,0.7549317330722383,No,Low,0
+44,Female,Medium,High School,Student,99.05,275.37,4,55,0.2271263655918656,No,Medium,0
+75,Female,Medium,High School,Self-Employed,5.57,301.07,10,66,0.8883077474377054,No,Medium,1
+52,Female,Medium,PhD,Self-Employed,40.35,661.46,5,227,0.3875816674368331,No,Medium,1
+57,Male,Medium,Bachelor,Self-Employed,35.97,916.35,7,26,0.5762294117779343,No,Medium,1
+72,Female,Medium,Bachelor,Student,16.52,393.71,3,253,0.831435619292711,No,Medium,1
+25,Male,High,Bachelor,Student,86.36,45.39,4,197,0.1883947674004922,No,Medium,0
+77,Female,High,Bachelor,Student,69.89,135.15,3,130,0.7845101356775531,No,Low,1
+63,Female,High,High School,Employed,66.0,90.12,2,243,0.5961627979106775,Yes,Medium,0
+64,Male,Low,Bachelor,Employed,104.45,66.55,3,312,0.8933416418276082,No,Low,0
+51,Female,Medium,Master,Self-Employed,64.15,227.77,6,212,0.17197040184354295,No,Low,1
+64,Male,Medium,High School,Retired,13.19,130.29,7,190,0.42068223704092844,No,Medium,0
+66,Male,Medium,High School,Self-Employed,61.13,123.14,5,290,0.8328430928668374,No,Medium,1
+40,Female,Medium,High School,Unemployed,18.39,28.12,3,226,0.019231703456760174,Yes,Low,0
+35,Male,High,Bachelor,Employed,13.87,8.91,3,246,0.11220136676564285,Yes,High,1
+73,Male,Medium,Master,Student,3.79,54.22,7,56,0.9905652127567347,No,Low,0
+40,Female,Medium,High School,Employed,68.13,94.49,3,55,0.28039417859035054,No,Low,0
+30,Male,Low,High School,Student,62.07,281.92,4,276,0.9755431937239534,No,Medium,0
+79,Male,Medium,Bachelor,Unemployed,13.36,357.21,7,306,0.1825315510086739,No,Low,1
+56,Male,Medium,Master,Unemployed,69.19,75.76,4,340,0.3610944430073356,No,Medium,0
+55,Female,Medium,Bachelor,Employed,124.95,276.5,2,153,0.7528694445035706,Yes,Medium,0
+54,Male,Low,Bachelor,Student,5.72,209.08,3,53,0.6577784072381785,No,Low,0
+38,Female,Low,Master,Unemployed,13.24,101.32,2,111,0.5811223999290556,No,Low,0
+39,Female,Medium,Bachelor,Self-Employed,69.37,3.43,8,204,0.5298991758050076,No,Low,0
+76,Male,Low,Master,Self-Employed,16.05,314.63,6,112,0.8434404436647402,No,Low,0
+37,Male,Low,Master,Student,49.0,578.63,12,325,0.23494856283339272,No,Low,1
+66,Male,Low,High School,Employed,4.23,128.27,4,258,0.4424709269935184,No,Low,0
+60,Female,Low,High School,Unemployed,30.09,70.67,3,16,0.15545229215645728,No,High,0
+68,Male,Low,High School,Employed,67.18,1090.37,1,350,0.5959415957307044,No,Low,0
+33,Male,Medium,Bachelor,Self-Employed,58.0,160.81,6,166,0.2505444242713202,Yes,Low,0
+34,Male,Medium,PhD,Unemployed,84.39,126.55,2,301,0.3338420643433858,No,High,0
+50,Male,High,Bachelor,Employed,104.96,972.79,4,280,0.47125071662352813,No,Low,1
+20,Male,Medium,High School,Retired,74.18,849.43,4,158,0.026770585703127847,No,High,0
+72,Female,Medium,Master,Student,55.67,297.42,5,249,0.09193793592083765,No,Low,0
+73,Female,Low,Bachelor,Student,1.61,335.93,4,181,0.6859292207082196,No,Low,0
+73,Male,Low,High School,Retired,38.28,122.79,5,191,0.42896998071750725,No,Low,0
+22,Male,Medium,Bachelor,Self-Employed,1.92,40.77,7,139,0.8647902219998954,No,Medium,0
+35,Male,Low,Bachelor,Unemployed,82.53,425.99,6,78,0.6946720036441995,Yes,Low,0
+42,Male,Medium,Master,Student,19.34,51.76,4,336,0.008100941647322446,No,Medium,1
+76,Female,Medium,High School,Retired,41.33,298.26,5,50,0.6167123307671348,Yes,Low,0
+30,Male,Medium,High School,Retired,16.39,1410.87,3,85,0.09372486605971642,No,Low,0
+31,Female,Low,Bachelor,Self-Employed,76.28,1527.05,1,183,0.7809331797904943,Yes,Low,0
+29,Female,Medium,High School,Self-Employed,108.8,136.78,4,183,0.991507688278502,No,Low,0
+51,Male,Medium,Bachelor,Employed,25.43,489.23,5,4,0.5311987942415115,Yes,Low,1
+35,Female,Low,Bachelor,Student,99.36,321.3,6,317,0.6827795001941304,No,High,0
+27,Female,Medium,Bachelor,Employed,15.54,1042.47,4,111,0.23731416089475155,No,Medium,1
+57,Female,Medium,PhD,Retired,38.25,158.34,5,334,0.43759774375379357,No,Low,0
+31,Female,High,Bachelor,Unemployed,97.87,1.85,7,339,0.8560953322363837,No,Medium,0
+43,Male,Low,High School,Unemployed,19.72,88.7,5,251,0.16742294774625122,No,Medium,0
+47,Male,High,Bachelor,Self-Employed,154.0,215.02,5,133,0.2655356056137621,No,Low,0
+72,Female,Medium,Master,Unemployed,6.5,189.69,9,100,0.4454336752860302,Yes,Medium,0
+27,Male,Medium,Master,Unemployed,0.92,783.58,3,172,0.712248891844014,No,Medium,0
+77,Male,Low,High School,Unemployed,117.24,570.59,5,287,0.3758839547956738,No,Low,0
+47,Male,Medium,PhD,Retired,3.56,178.02,3,119,0.9277322797830039,No,Medium,0
+55,Male,Low,Bachelor,Unemployed,240.73,306.01,5,350,0.09445705126871917,No,High,0
+45,Male,Medium,High School,Unemployed,151.2,50.22,4,175,0.3708041975448475,No,High,0
+27,Female,Low,High School,Unemployed,7.37,1142.11,3,30,0.7089541234284219,No,Low,1
+77,Male,High,High School,Employed,38.56,1369.96,7,55,0.22598676566149245,No,Low,0
+79,Male,Medium,Master,Retired,10.22,1951.12,5,361,0.656413134229673,No,Low,1
+69,Male,Medium,High School,Self-Employed,27.94,1014.58,3,196,0.16421695822734594,Yes,Medium,0
+47,Male,Low,High School,Employed,3.17,95.56,3,41,0.05598028486168638,No,Low,0
+47,Female,Low,Master,Student,12.68,23.65,6,173,0.12101571674864886,Yes,Low,0
+56,Female,Medium,Bachelor,Retired,22.57,433.27,7,330,0.9299847831341347,No,Low,0
+60,Female,Medium,High School,Retired,28.87,1218.66,7,219,0.5517508829395513,No,Low,0
+55,Female,Low,High School,Student,189.7,97.61,4,208,0.796345775479649,No,Medium,0
+46,Male,Medium,High School,Student,82.48,3.53,4,158,0.3326545009050512,No,Medium,0
+73,Female,High,High School,Student,66.86,818.65,1,333,0.5926586478854466,No,Medium,0
+36,Male,Medium,Bachelor,Self-Employed,38.51,39.95,4,228,0.4949521337049916,No,Medium,1
+28,Male,Medium,High School,Unemployed,91.63,266.97,3,85,0.945737959402294,No,Low,0
+52,Male,High,High School,Retired,20.72,567.98,2,173,0.7475746360541103,Yes,Low,0
+72,Male,Low,Master,Unemployed,61.7,135.12,6,245,0.730542631496579,No,Low,0
+39,Male,Medium,Bachelor,Unemployed,254.03,43.85,2,360,0.04635326943427953,No,Medium,1
+32,Female,High,Bachelor,Student,18.89,734.88,6,173,0.5496696690036911,Yes,High,0
+47,Female,Low,Bachelor,Self-Employed,56.05,497.36,6,335,0.46699145390181485,No,High,0
+67,Female,Medium,Bachelor,Employed,93.0,2232.29,6,212,0.9278422666061945,No,Medium,1
+48,Female,Medium,Bachelor,Self-Employed,123.73,211.03,6,84,0.25734198818953224,No,Medium,1
+32,Male,Medium,Bachelor,Unemployed,63.28,31.88,6,173,0.2698334532910943,No,Low,0
+65,Female,Medium,Bachelor,Self-Employed,16.68,662.79,5,183,0.4113462488815004,No,High,0
+54,Male,High,PhD,Student,19.75,368.79,7,133,0.24336971340637603,No,Low,1
+25,Female,Medium,High School,Employed,1.05,119.89,7,288,0.1291839178087495,No,Medium,1
+37,Male,Low,Master,Student,71.54,761.01,9,262,0.8574148466508008,No,Low,0
+70,Male,High,High School,Employed,2.18,113.92,5,350,0.5582765244039158,No,Low,0
+24,Female,Low,Master,Unemployed,100.0,151.0,4,282,0.8613627189565668,No,Medium,0
+66,Male,Medium,Bachelor,Employed,6.32,48.55,7,293,0.8311347654036959,No,Low,0
+44,Male,Medium,Master,Employed,9.43,254.94,5,269,0.2820423547896711,No,Low,0
+21,Female,Medium,High School,Employed,32.36,271.44,5,349,0.547737444324274,No,Low,0
+29,Male,Medium,Bachelor,Self-Employed,66.95,361.35,4,197,0.08321770274007045,No,Low,1
+75,Female,High,Bachelor,Self-Employed,7.48,617.15,9,25,0.9152518840307584,No,High,1
+49,Female,Medium,Master,Unemployed,29.0,1182.77,5,141,0.4042627150651531,No,Low,0
+69,Female,Medium,Bachelor,Employed,32.97,74.1,6,223,0.39367618388902137,Yes,Low,0
+78,Male,Low,Bachelor,Retired,11.93,27.94,0,20,0.3027553706179532,No,High,0
+64,Male,High,Bachelor,Unemployed,6.14,9.35,6,247,0.4606637447107038,No,Medium,0
+24,Male,High,Bachelor,Employed,90.52,77.52,8,328,0.25175938654544805,Yes,Low,0
+74,Female,Medium,Bachelor,Employed,34.9,536.4,4,201,0.37485227279680455,No,Medium,0
+75,Male,Low,High School,Self-Employed,0.72,650.02,6,115,0.7999470485848819,No,Low,0
+52,Female,Low,PhD,Unemployed,81.22,772.07,3,189,0.8342555035851719,No,Low,0
+73,Female,Low,Master,Employed,197.63,139.66,3,26,0.30418247762851613,No,Low,1
+20,Male,Low,PhD,Employed,46.56,182.57,7,54,0.4690144305527879,No,Medium,0
+37,Female,Medium,High School,Unemployed,35.03,329.99,4,170,0.8738197762800523,No,Medium,0
+51,Male,High,Master,Retired,105.36,32.63,2,11,0.052673331829697134,Yes,High,1
+66,Male,Medium,Master,Unemployed,152.37,472.27,1,27,0.8891449619957854,No,Low,0
+68,Male,Low,Bachelor,Unemployed,70.23,2059.37,7,350,0.2191843456523317,No,Low,0
+30,Male,Low,Bachelor,Retired,29.48,223.77,2,83,0.6785392442143758,No,Low,0
+40,Male,Low,Bachelor,Unemployed,44.85,698.87,5,290,0.5825516963846002,No,Low,1
+45,Female,Low,Master,Employed,60.35,346.61,6,38,0.5529407481892521,No,Medium,0
+44,Female,Low,Bachelor,Unemployed,10.8,68.38,7,87,0.8593602247528214,No,High,0
+41,Female,Low,High School,Retired,29.64,436.42,5,321,0.10157214364466127,No,Low,0
+78,Male,Medium,Bachelor,Student,88.55,178.25,5,156,0.34702802532563604,No,Medium,0
+46,Male,High,PhD,Unemployed,53.17,17.5,8,308,0.5382527463447656,Yes,Medium,0
+68,Male,Medium,Master,Self-Employed,26.48,503.83,5,286,0.8112888539460398,No,Medium,0
+32,Female,Medium,PhD,Employed,54.44,979.26,6,186,0.2164430834116715,No,High,1
+52,Male,High,Bachelor,Employed,6.29,211.38,3,182,0.8029298413742763,No,Medium,1
+53,Female,Low,High School,Self-Employed,25.67,247.39,9,143,0.39963848249393574,No,Low,0
+60,Female,Low,High School,Self-Employed,78.78,1108.3,5,206,0.1889138564336954,No,Low,0
+54,Male,High,High School,Unemployed,12.46,839.95,5,142,0.7589864404434826,No,Low,0
+20,Male,Low,High School,Self-Employed,10.29,627.55,7,185,0.09089890147454782,No,Low,1
+40,Female,Medium,Bachelor,Student,150.61,143.04,4,241,0.5147673740754429,Yes,Low,0
+67,Male,Medium,High School,Retired,11.78,1205.18,6,8,0.06387578386188841,No,Low,0
+74,Female,Medium,Bachelor,Self-Employed,15.12,83.86,4,72,0.35641785515778757,Yes,Medium,1
+25,Male,Medium,PhD,Self-Employed,174.69,492.78,5,288,0.6010767990063927,No,Low,1
+47,Male,Medium,Bachelor,Student,66.35,14.61,6,95,0.5561155414872131,No,Medium,0
+36,Female,Low,Master,Employed,60.13,516.02,2,157,0.4046554179046665,No,Medium,1
+24,Male,Low,Bachelor,Employed,95.84,162.27,9,41,0.4290479939721157,Yes,Medium,1
+50,Female,Medium,High School,Unemployed,6.15,298.62,2,331,0.22676955335076654,No,Low,0
+24,Male,Medium,Bachelor,Student,61.2,211.76,5,301,0.4558825884241029,No,Medium,0
+57,Female,Low,High School,Retired,35.03,94.83,5,269,0.9532548557208342,No,Medium,1
+22,Female,High,Bachelor,Retired,88.35,486.41,2,155,0.8504529177837904,No,Medium,0
+72,Male,Medium,Bachelor,Student,35.48,1068.43,5,275,0.1452328690763438,Yes,Low,0
+42,Female,High,High School,Retired,48.41,1598.12,10,154,0.02978078732092093,No,Low,0
+56,Male,Medium,High School,Employed,32.48,106.81,2,53,0.9335243127166306,No,Low,1
+72,Male,Medium,Bachelor,Retired,32.52,631.81,4,179,0.5267497498807476,No,Medium,1
+56,Male,Medium,PhD,Retired,73.04,545.83,6,240,0.5378378231493077,No,Medium,0
+29,Female,High,Master,Student,49.52,210.32,7,137,0.7807179957065223,No,Low,1
+29,Female,Low,Master,Student,50.16,9.64,7,255,0.31468897387132655,No,Medium,1
+38,Male,Medium,High School,Retired,29.92,585.25,3,224,0.48190756883600216,No,Low,1
+36,Male,Low,Master,Self-Employed,37.87,1454.73,6,180,0.9686629131467376,Yes,Low,0
+40,Female,Medium,Master,Student,68.47,500.0,9,182,0.6721486869324071,No,Low,0
+33,Male,Medium,Bachelor,Unemployed,87.42,285.72,6,259,0.15374503199578593,No,Low,0
+28,Male,High,PhD,Unemployed,59.63,372.38,8,243,0.1332267479843533,Yes,Medium,0
+65,Female,High,Bachelor,Employed,128.9,111.34,7,96,0.2042647583330054,No,Medium,0
+20,Male,Low,PhD,Retired,85.83,694.24,4,197,0.7667116744207175,No,Low,1
+70,Female,Low,PhD,Self-Employed,41.26,686.04,3,14,0.29537700384061605,No,Medium,0
+64,Male,Medium,High School,Employed,55.65,78.63,10,120,0.021388846675079787,No,Medium,1
+32,Female,Medium,Bachelor,Retired,130.39,1051.78,4,269,0.9441743635056619,No,Medium,0
+23,Male,Low,PhD,Student,48.27,156.8,3,171,0.16971341639491067,Yes,Medium,0
+20,Male,Medium,High School,Unemployed,87.09,2015.86,10,72,0.009558186148068581,No,Medium,0
+68,Female,Medium,Bachelor,Self-Employed,58.37,241.36,12,179,0.23713160238332298,Yes,High,0
+59,Male,High,PhD,Unemployed,40.14,97.94,2,170,0.2350287871181337,No,Low,0
+51,Female,Low,Bachelor,Student,13.84,216.72,3,159,0.42200525084572305,No,Low,1
